@@ -13955,7 +13955,6 @@ _person#sluľba#-
 _person#gamba#-
 _person#hamba#-
 _person#lamba#-
-_person#mamba#-
 _person#pámba#-
 _person#samba#-
 _person#bemba#-
@@ -13965,7 +13964,6 @@ _person#bomba#-
 _person#hyperbomba#-
 _person#comba#-
 _person#gomba#-
-_person#komba#-
 _person#katakomba#-
 _person#plomba#-
 _person#tromba#-
@@ -14126,7 +14124,6 @@ _person#velkokluba#-
 _person#sluba#-
 _person#nekňuba#+
 _person#zásnuba#-
-_person#houba#-
 _person#zhouba#-
 _person#chlouba#-
 _person#repuba#-
@@ -14184,9 +14181,7 @@ _person#dvojchyba#-
 _person#pochyba#-
 _person#nehyba#-
 _person#mikropohyba#-
-_person#ryba#-
 _person#paryba#-
-_person#velryba#-
 _person#veľryba#-
 _person#poloryba#-
 _person#vyba#-
@@ -14468,7 +14463,6 @@ _person#kadá#-
 _person#akada#-
 _person#estakáda#-
 _person#dekáda#-
-_person#cikáda#-
 _person#barikáda#-
 _person#okáda#-
 _person#blokáda#-
@@ -14482,7 +14476,6 @@ _person#nálada#-
 _person#nenálada#-
 _person#heteroclada#-
 _person#marmeláda#-
-_person#dželada#-
 _person#pohľada#-
 _person#milada#-
 _person#kláda#-
@@ -14776,7 +14769,6 @@ _person#sklereida#-
 _person#perseida#-
 _person#panychida#-
 _person#invalida#+
-_person#cichlida#-
 _person#sichlida#-
 _person#syfilida#-
 _person#neklida#-
@@ -14849,7 +14841,6 @@ _person#parodontitida#-
 _person#mastitida#-
 _person#gingivitida#-
 _person#suida#-
-_person#vida#-
 _person#likvida#-
 _person#povída#-
 _person#odpovida#-
@@ -14925,7 +14916,6 @@ _person#kocmanda#-
 _person#commanda#-
 _person#nýmanda#-
 _person#příponanda#-
-_person#panda#-
 _person#branda#-
 _person#veranda#-
 _person#legranda#-
@@ -14974,7 +14964,6 @@ _person#rewinda#-
 _person#onda#-
 _person#eurobonda#-
 _person#honda#-
-_person#anakonda#-
 _person#raymonda#-
 _person#ponda#-
 _person#ronda#-
@@ -15395,7 +15384,6 @@ _person#lyžea#-
 _person#fa#-
 _person#karafa#-
 _person#parafa#-
-_person#žirafa#-
 _person#šrafa#-
 _person#trefa#-
 _person#šefa#-
@@ -15435,7 +15423,6 @@ _person#saga#-
 _person#sága#-
 _person#picmisaga#-
 _person#slavistaga#-
-_person#kvaga#-
 _person#wedga#-
 _person#bodega#-
 _person#léga#-
@@ -15468,7 +15455,6 @@ _person#origa#-
 _person#triga#-
 _person#juriga#-
 _person#lentiga#-
-_person#sajga#-
 _person#tajga#-
 _person#szolga#-
 _person#vulga#-
@@ -15494,7 +15480,6 @@ _person#stronga#-
 _person#kunga#-
 _person#sunga#-
 _person#tunga#-
-_person#sitatunga#-
 _person#džunga#-
 _person#doga#-
 _person#goga#-
@@ -15520,7 +15505,6 @@ _person#pešmarga#-
 _person#virga#-
 _person#orga#-
 _person#orgá#-
-_person#buga#-
 _person#fuga#-
 _person#centrifuga#-
 _person#juga#-
@@ -15653,7 +15637,6 @@ _person#německýccha#-
 _person#nádcha#-
 _person#čecha#-
 _person#lecha#-
-_person#blecha#-
 _person#neplecha#-
 _person#šlecha#-
 _person#necha#-
@@ -15760,7 +15743,6 @@ _person#researcha#-
 _person#oligarcha#+
 _person#patriarcha#+
 _person#aziarcha#-
-_person#monarcha#+
 _person#hierarcha#-
 _person#ťarcha#-
 _person#percha#-
@@ -15791,12 +15773,9 @@ _person#zeměvzducha#-
 _person#zkucha#-
 _person#plucha#-
 _person#mucha#-
-_person#trnucha#-
 _person#neposloucha#-
-_person#moucha#-
 _person#toucha#-
 _person#lopucha#-
-_person#ropucha#-
 _person#porucha#-
 _person#šrucha#-
 _person#rozrucha#-
@@ -15804,9 +15783,7 @@ _person#zasucha#-
 _person#tucha#-
 _person#predtucha#-
 _person#předtucha#-
-_person#poletucha#-
 _person#potucha#-
-_person#pišťucha#-
 _person#děvucha#+
 _person#pazucha#-
 _person#blbycha#-
@@ -15913,7 +15890,6 @@ _person#severjiha#-
 _person#líha#-
 _person#kobliha#-
 _person#biolíha#-
-_person#koliha#-
 _person#miha#-
 _person#kniha#-
 _person#kníha#-
@@ -15929,7 +15905,6 @@ _person#mlha#-
 _person#mlhá#-
 _person#volha#-
 _person#ulhá#-
-_person#vlha#-
 _person#mha#-
 _person#tímha#-
 _person#sardinha#-
@@ -15997,9 +15972,7 @@ _person#cassutha#-
 _person#vtha#-
 _person#duha#-
 _person#symbolemduha#-
-_person#chaluha#-
 _person#obluha#-
-_person#běluha#-
 _person#záslluha#-
 _person#sluha#+
 _person#zasluha#-
@@ -16575,9 +16548,7 @@ _person#náká#-
 _person#inaka#-
 _person#foáka#-
 _person#kloaka#-
-_person#paka#-
 _person#páka#-
-_person#alpaka#-
 _person#spaka#-
 _person#šaltpáká#-
 _person#ráka#-
@@ -16585,7 +16556,6 @@ _person#braka#-
 _person#mráka#-
 _person#praka#-
 _person#sra*ka#-
-_person#straka#-
 _person#taka#-
 _person#táká#-
 _person#ataka#-
@@ -16605,7 +16575,6 @@ _person#arabka#-
 _person#drábka#-
 _person#škrabka#-
 _person#švábka#-
-_person#žabka#-
 _person#hudebka#-
 _person#lebka#-
 _person#mahalebka#-
@@ -16661,7 +16630,6 @@ _person#mrkacka#-
 _person#blacka#-
 _person#sedlacka#-
 _person#sedlácká#-
-_person#placka#-
 _person#slacka#-
 _person#prijimacka#-
 _person#smacka#-
@@ -16938,7 +16906,6 @@ _person#nabíjačka#-
 _person#zabijačka#-
 _person#zabíjačka#-
 _person#vojačka#+
-_person#kačka#-
 _person#skákačka#-
 _person#makačka#-
 _person#halekačka#-
@@ -16955,7 +16922,6 @@ _person#drnkačka#-
 _person#mrkačka#-
 _person#přeskáčka#-
 _person#mrskačka#-
-_person#kukačka#-
 _person#houkačka#-
 _person#šukačka#-
 _person#žvýkačka#-
@@ -16978,7 +16944,6 @@ _person#kalkulačka#-
 _person#vláčka#-
 _person#závlačka#-
 _person#mačka#-
-_person#máčka#-
 _person#lámačka#-
 _person#ždímačka#-
 _person#přijímačka#-
@@ -17037,7 +17002,6 @@ _person#sračka#-
 _person#nasračka#-
 _person#matračka#-
 _person#pátračka#-
-_person#stračka#-
 _person#bouračka#-
 _person#kuřačka#+
 _person#nekuřačka#+
@@ -17070,7 +17034,6 @@ _person#prodavačka#+
 _person#strojůprodavačka#-
 _person#udavačka#+
 _person#roztleskávačka#+
-_person#hlavačka#-
 _person#vyjednavačka#+
 _person#poznávačka#-
 _person#vyznavačka#+
@@ -17108,7 +17071,6 @@ _person#seznamovačka#-
 _person#rýmovačka#-
 _person#zavinovačka#-
 _person#doplňovačka#-
-_person#snovačka#-
 _person#sklapovačka#-
 _person#tipovačka#-
 _person#směrovačka#-
@@ -17352,14 +17314,12 @@ _person#odlišnějedlička#-
 _person#vidlička#-
 _person#zidlička#-
 _person#židlička#-
-_person#hrdlička#-
 _person#kudlička#-
 _person#nudlička#-
 _person#včelička#-
 _person#telička#-
 _person#kachlička#-
 _person#krychlička#-
-_person#jehlička#-
 _person#žehlička#-
 _person#cihlička#-
 _person#švihlička#-
@@ -17382,7 +17342,6 @@ _person#stolička#-
 _person#volička#+
 _person#kaplička#-
 _person#berlička#-
-_person#perlička#-
 _person#štamprlička#-
 _person#přeslička#-
 _person#mašlička#-
@@ -17411,7 +17370,6 @@ _person#osmsetsedmička#-
 _person#biochemička#+
 _person#šelmička#-
 _person#komička#+
-_person#parmička#-
 _person#formička#-
 _person#osmička#-
 _person#gumička#-
@@ -17452,12 +17410,10 @@ _person#okenička#-
 _person#sklenička#-
 _person#poslednísklenička#-
 _person#kamenička#-
-_person#pěnička#-
 _person#schizofrenička#+
 _person#třenička#-
 _person#štěnička#-
 _person#sazenička#-
-_person#kachnička#-
 _person#technička#+
 _person#zootechnička#+
 _person#muchnička#-
@@ -17508,7 +17464,6 @@ _person#klisnička#-
 _person#pisnička#-
 _person#písnička#-
 _person#kraksnička#-
-_person#rosnička#-
 _person#brašnička#-
 _person#čerešnička#-
 _person#třešnička#-
@@ -17557,10 +17512,8 @@ _person#električka#-
 _person#lyrička#+
 _person#říčka#-
 _person#tvářička#-
-_person#zebřička#-
 _person#gříčka#-
 _person#hříčka#-
-_person#jiřička#-
 _person#jiskřička#-
 _person#příčka#-
 _person#úhlopříčka#-
@@ -17579,7 +17532,6 @@ _person#rosička#-
 _person#vosička#-
 _person#kapsička#-
 _person#prsíčka#-
-_person#husička#-
 _person#krysička#-
 _person#kašička#-
 _person#trošička#-
@@ -17627,7 +17579,6 @@ _person#mistička#-
 _person#kostička#-
 _person#hrstička#-
 _person#cystička#-
-_person#štička#-
 _person#flaštička#-
 _person#paštička#-
 _person#taštička#-
@@ -17667,7 +17618,6 @@ _person#ředkvička#-
 _person#řekvička#-
 _person#mrkvička#-
 _person#broskvička#-
-_person#želvička#-
 _person#pánvička#-
 _person#konvička#-
 _person#bábovička#-
@@ -17731,7 +17681,6 @@ _person#mlčka#-
 _person#pomlčka#-
 _person#perlčka#-
 _person#zančka#-
-_person#babočka#-
 _person#odbočka#-
 _person#rozbočka#-
 _person#čočka#-
@@ -17753,8 +17702,6 @@ _person#frčka#-
 _person#hrčka#-
 _person#smrčka#-
 _person#zástrčka#-
-_person#hučka#-
-_person#slučka#-
 _person#rozlučka#-
 _person#rozlúčka#-
 _person#mučka#-
@@ -17874,7 +17821,6 @@ _person#vybídka#-
 _person#lidka#-
 _person#obhlídka#-
 _person#vobhlídka#-
-_person#cichlidka#-
 _person#ehlídka#-
 _person#přehlídka#-
 _person#galapřehlídka#-
@@ -17921,8 +17867,6 @@ _person#pohodka#-
 _person#lodˇka#-
 _person#loďka#-
 _person#marodka#-
-_person#perlorodka#-
-_person#živorodka#-
 _person#vodka#-
 _person#závodka#-
 _person#převodka#-
@@ -18209,7 +18153,6 @@ _person#klaunika#-
 _person#tunika#-
 _person#vznika#-
 _person#lombardoika#-
-_person#pika#-
 _person#píka#-
 _person#epika#-
 _person#filipika#-
@@ -18252,7 +18195,6 @@ _person#řika#-
 _person#říka#-
 _person#řiká#-
 _person#mříka#-
-_person#sika#-
 _person#síka#-
 _person#klasika#-
 _person#mesika#-
@@ -18445,7 +18387,6 @@ _person#akustika#-
 _person#elektroakustika#-
 _person#mystika#-
 _person#joystika#-
-_person#štika#-
 _person#paštika#-
 _person#veleštika#-
 _person#kosmonautika#-
@@ -18481,7 +18422,6 @@ _person#čajka#-
 _person#zpravodajka#+
 _person#fajka#-
 _person#hájka#-
-_person#kajka#-
 _person#lajka#-
 _person#balalajka#-
 _person#salajka#-
@@ -18491,14 +18431,12 @@ _person#májka#-
 _person#kalamajka#-
 _person#raňajka#-
 _person#pájka#-
-_person#rajka#-
 _person#krajka#-
 _person#strajka#-
 _person#kazajka#-
 _person#mozajka#-
 _person#subjka#-
 _person#prakticjka#-
-_person#čejka#-
 _person#videjka#-
 _person#dodejka#-
 _person#zlodějka#+
@@ -18539,7 +18477,6 @@ _person#třidvatrojka#-
 _person#empétrojka#-
 _person#perestrojka#-
 _person#dvanáctsettrojka#-
-_person#sojka#-
 _person#stojka#-
 _person#vojka#-
 _person#dvojka#-
@@ -18554,7 +18491,6 @@ _person#mekká#-
 _person#doměkka#-
 _person#bobanekka#-
 _person#rkka#-
-_person#alka#-
 _person#hambálka#-
 _person#obálka#-
 _person#bobalka#-
@@ -18563,7 +18499,6 @@ _person#florbalka#-
 _person#pučálka#-
 _person#dálka#-
 _person#padalka#-
-_person#hvízdalka#-
 _person#reálka#-
 _person#legálka#-
 _person#hálka#-
@@ -18598,7 +18533,6 @@ _person#generálka#-
 _person#jenerálka#-
 _person#minerálka#-
 _person#spirálka#-
-_person#horalka#+
 _person#moralka#-
 _person#morálka#-
 _person#reálmorálka#-
@@ -18670,7 +18604,6 @@ _person#módelka#-
 _person#fotomodelka#+
 _person#topmodelka#+
 _person#supermodelka#+
-_person#sardelka#-
 _person#prdelka#-
 _person#´Prdelka#-
 _person#koudelka#-
@@ -18689,10 +18622,8 @@ _person#režiséraumělka#-
 _person#rumělka#-
 _person#manelka#-
 _person#panelka#-
-_person#španělka#-
 _person#znělka#-
 _person#čepelka#-
-_person#křepelka#-
 _person#střelka#-
 _person#přestřelka#-
 _person#selka#+
@@ -18833,7 +18764,6 @@ _person#nadilka#-
 _person#nadílka#-
 _person#vyřídilka#-
 _person#milka#-
-_person#octomilka#-
 _person#jarmilka#-
 _person#vanilka#-
 _person#pilka#-
@@ -18844,14 +18774,12 @@ _person#zásilka#-
 _person#obsílka#-
 _person#tesilka#-
 _person#rozesílka#-
-_person#strašilka#-
 _person#košilka#-
 _person#voršilka#-
 _person#hatmatilka#-
 _person#lentilka#-
 _person#pastilka#-
 _person#hustilka#-
-_person#kutilka#+
 _person#vilka#-
 _person#trávilka#-
 _person#chvilka#-
@@ -18901,7 +18829,6 @@ _person#rosolka#-
 _person#kapitolka#-
 _person#podkapitolka#-
 _person#pistolka#-
-_person#poštolka#-
 _person#wolka#-
 _person#fazolka#-
 _person#bulka#-
@@ -18934,7 +18861,6 @@ _person#paroulka#-
 _person#toulka#-
 _person#pulka#-
 _person#půlka#-
-_person#pipulka#-
 _person#ampulka#-
 _person#špulka#-
 _person#způlka#-
@@ -18954,8 +18880,6 @@ _person#potulka#-
 _person#vrtulka#-
 _person#pistulka#-
 _person#zezulka#-
-_person#kobylka#-
-_person#pakobylka#-
 _person#dýlka#-
 _person#idylka#-
 _person#prdýlka#-
@@ -18991,7 +18915,6 @@ _person#příjemka#-
 _person#písemka#-
 _person#artemka#-
 _person#podzemka#-
-_person#pozemka#-
 _person#jimka#-
 _person#jímka#-
 _person#jimká#-
@@ -19022,7 +18945,6 @@ _person#tomka#-
 _person#dumka#-
 _person#barumka#-
 _person#chrumka#-
-_person#sumka#-
 _person#dýmka#-
 _person#prýmka#-
 _person#nká#-
@@ -19040,7 +18962,6 @@ _person#wambanka#-
 _person#spermobanka#-
 _person#ivnobanka#-
 _person#fotobanka#-
-_person#kubánka#-
 _person#škubánka#-
 _person#obcanka#-
 _person#spoluobčanka#+
@@ -19094,10 +19015,7 @@ _person#potkánka#-
 _person#ťukanka#-
 _person#laňka#-
 _person#palanka#-
-_person#blanka#-
-_person#bezblanka#-
 _person#clanka#-
-_person#kudlanka#-
 _person#porcelánka#-
 _person#selanka#-
 _person#selánka#-
@@ -19113,7 +19031,6 @@ _person#manka#-
 _person#rekordmanka#+
 _person#módemanka#-
 _person#zemanka#+
-_person#kajmanka#-
 _person#gólmanka#+
 _person#ironmanka#+
 _person#nymfomanka#+
@@ -19132,11 +19049,9 @@ _person#ránka#-
 _person#branka#-
 _person#beranka#-
 _person#veteránka#+
-_person#šafránka#-
 _person#záchranka#-
 _person#schranka#-
 _person#schránka#-
-_person#čtyřhranka#-
 _person#majoránka#-
 _person#sránka#-
 _person#tranka#-
@@ -19147,9 +19062,7 @@ _person#podstránka#-
 _person#fanstránka#-
 _person#pornostránka#-
 _person#sexstránka#-
-_person#vranka#-
 _person#tyranka#+
-_person#sasanka#-
 _person#písanka#-
 _person#sisanka#-
 _person#olšanka#-
@@ -19178,7 +19091,6 @@ _person#křesťanka#+
 _person#měšťanka#+
 _person#mimozemšťanka#+
 _person#markytánka#+
-_person#paduánka#-
 _person#jehejuanka#-
 _person#vanka#-
 _person#vánka#-
@@ -19231,7 +19143,6 @@ _person#novoročenka#-
 _person#mučenka#-
 _person#doručenka#-
 _person#doporučenka#-
-_person#zaděnka#-
 _person#měděnka#-
 _person#studénka#-
 _person#jízdenka#-
@@ -19301,7 +19212,6 @@ _person#blankosměnka#-
 _person#záhumenka#-
 _person#šoumenka#+
 _person#chráněnka#+
-_person#skleněnka#-
 _person#hliněnka#-
 _person#klíněnka#-
 _person#stíněnka#-
@@ -19309,7 +19219,6 @@ _person#žíněnka#-
 _person#domnenka#-
 _person#domněnka#-
 _person#pomněnka#-
-_person#třásněnka#-
 _person#kapénka#-
 _person#vápenka#-
 _person#lepenka#-
@@ -19332,13 +19241,9 @@ _person#stříbřenka#-
 _person#modřenka#-
 _person#pudřenka#-
 _person#cukřenka#-
-_person#mřenka#-
 _person#kořenka#-
 _person#jitřenka#-
-_person#střenka#-
-_person#pestřenka#-
 _person#sestřenka#+
-_person#vlásenka#-
 _person#násěnka#-
 _person#řasenka#-
 _person#věsenka#-
@@ -19362,7 +19267,6 @@ _person#drátěnka#-
 _person#účtenka#-
 _person#letenka#-
 _person#nitěnka#-
-_person#štítenka#-
 _person#anténka#-
 _person#ploténka#-
 _person#rtěnka#-
@@ -19374,7 +19278,6 @@ _person#umístěnka#-
 _person#dorostenka#+
 _person#pláštěnka#-
 _person#leštěnka#-
-_person#ploštěnka#-
 _person#roštěnka#-
 _person#žloutenka#-
 _person#přepravenka#-
@@ -19390,8 +19293,6 @@ _person#pivenka#-
 _person#navštívenka#-
 _person#slovenka#-
 _person#domovenka#-
-_person#larvěnka#-
-_person#červenka#-
 _person#omluvenka#-
 _person#sázenka#-
 _person#svazenka#-
@@ -19435,7 +19336,6 @@ _person#radiodispečinka#-
 _person#prasečinka#-
 _person#pičinka#-
 _person#skopičinka#-
-_person#kočinka#-
 _person#vysočinka#-
 _person#zátočinka#-
 _person#protiúčinka#-
@@ -19453,7 +19353,6 @@ _person#třičtvrtěhodinka#-
 _person#půlhodinka#-
 _person#čtvrhodinka#-
 _person#čtvrthodinka#-
-_person#sardinka#-
 _person#hrdinka#+
 _person#bzdinka#-
 _person#hmoždinka#-
@@ -19482,7 +19381,6 @@ _person#kovadlinka#-
 _person#podlinka#-
 _person#kudrdlinka#-
 _person#elinka#-
-_person#mandelinka#-
 _person#michelinka#-
 _person#zdrobnělinka#-
 _person#kyselinka#-
@@ -19571,7 +19469,6 @@ _person#naziskupinka#-
 _person#pupinka#-
 _person#šupinka#-
 _person#mandarinka#-
-_person#marinka#-
 _person#katarínka#-
 _person#nektarinka#-
 _person#efedrinka#-
@@ -19656,7 +19553,6 @@ _person#borovinka#-
 _person#čertovinka#-
 _person#červinka#-
 _person#krvinka#-
-_person#svinka#-
 _person#sviňka#-
 _person#zinka#-
 _person#malvazinka#-
@@ -19674,8 +19570,6 @@ _person#vlnka#-
 _person#bavlnka#-
 _person#mikrovlnka#-
 _person#madonka#-
-_person#neonka#-
-_person#neónka#-
 _person#gramofonka#-
 _person#mikrofonka#-
 _person#vagonka#-
@@ -19705,7 +19599,6 @@ _person#nylonka#-
 _person#anemonka#-
 _person#simonka#-
 _person#miňonka#-
-_person#japonka#-
 _person#záponka#-
 _person#oponka#-
 _person#sponka#-
@@ -19723,7 +19616,6 @@ _person#stonka#-
 _person#teutonka#-
 _person#vonka#-
 _person#pivoňka#-
-_person#leghornka#-
 _person#srnka#-
 _person#trnka#-
 _person#podtrnka#-
@@ -19738,9 +19630,7 @@ _person#fotobuňka#-
 _person#meduňka#-
 _person#lagunka#-
 _person#bohuňka#-
-_person#kuňka#-
 _person#jablůňka#-
-_person#slunka#-
 _person#munka#-
 _person#muňka#-
 _person#simunka#-
@@ -19821,7 +19711,6 @@ _person#mapka#-
 _person#krapka#-
 _person#skořápka#-
 _person#ťapka#-
-_person#potápka#-
 _person#kvapka#-
 _person#wapka#-
 _person#čepka#-
@@ -19847,8 +19736,6 @@ _person#ipka#-
 _person#jednočipka#-
 _person#lipka#-
 _person#výchlipka#-
-_person#klipka#-
-_person#slípka#-
 _person#chřipka#-
 _person#sipka#-
 _person#šipka#-
@@ -19862,7 +19749,6 @@ _person#příklopka#-
 _person#sklopka#-
 _person#výklopka#-
 _person#nopka#-
-_person#konopka#-
 _person#popka#-
 _person#sopka#-
 _person#šopka#-
@@ -20046,14 +19932,11 @@ _person#zástěrka#-
 _person#polyesterka#-
 _person#gangsterka#+
 _person#histerka#-
-_person#ještěrka#-
 _person#utěrka#-
 _person#diskutérka#+
 _person#závěrka#-
 _person#uzavěrka#-
 _person#uzávěrka#-
-_person#veverka#-
-_person#vakoveverka#-
 _person#kverka#-
 _person#prověrka#-
 _person#svěrka#-
@@ -20112,7 +19995,6 @@ _person#piškorka#-
 _person#*Piškorka#-
 _person#sýkorka#-
 _person#kontrolorka#+
-_person#bejlomorka#-
 _person#dřevomorka#-
 _person#norka#-
 _person#ponorka#-
@@ -20327,7 +20209,6 @@ _person#bordelářka#+
 _person#sklářka#+
 _person#smolařka#+
 _person#veslařka#+
-_person#bruslařka#+
 _person#rychlobruslařka#+
 _person#krasobruslařka#+
 _person#kraulařka#+
@@ -20340,7 +20221,6 @@ _person#farmářka#+
 _person#ranařka#+
 _person#záchranářka#+
 _person#ochranářka#+
-_person#vodnářka#-
 _person#sklenářka#+
 _person#kořenářka#+
 _person#čtenářka#+
@@ -20377,7 +20257,6 @@ _person#farářka#+
 _person#cukrářka#+
 _person#odborářka#+
 _person#závorářka#+
-_person#masařka#-
 _person#císařka#+
 _person#komisařka#+
 _person#eurokomisařka#+
@@ -20530,7 +20409,6 @@ _person#freska#-
 _person#okreska#-
 _person#humoreska#-
 _person#expreska#-
-_person#treska#-
 _person#přeska#-
 _person#soldateska#-
 _person#groteska#-
@@ -20723,7 +20601,6 @@ _person#parléřovská#-
 _person#hendrixovská#-
 _person#jordanowská#-
 _person#montereyská#-
-_person#lyska#-
 _person#ryska#-
 _person#vodoryska#-
 _person#tryska#-
@@ -20742,7 +20619,6 @@ _person#prihláška#-
 _person#přihláška#-
 _person#ohláška#-
 _person#vyhláška#-
-_person#vlaška#-
 _person#primáška#-
 _person#zanáška#-
 _person#přednáška#-
@@ -20773,11 +20649,9 @@ _person#podléška#-
 _person#odedneška#-
 _person#dodneška#-
 _person#ododneška#-
-_person#berneška#-
 _person#těšká#-
 _person#vojtěška#-
 _person#jíška#-
-_person#liška#-
 _person#líška#-
 _person#eliška#-
 _person#pampeliška#-
@@ -20841,17 +20715,13 @@ _person#rozbuška#-
 _person#krajčuška#-
 _person#duška#-
 _person#poduška#-
-_person#voduška#-
 _person#průduška#-
 _person#fuška#-
 _person#věrchuška#-
-_person#koljuška#-
 _person#kakuška#-
 _person#skúška#-
 _person#haluška#-
-_person#sviluška#-
 _person#popoluška#-
-_person#světluška#-
 _person#muška#-
 _person#fanuška#-
 _person#panuška#-
@@ -20877,11 +20747,8 @@ _person#matuška#-
 _person#mátuška#-
 _person#letuška#+
 _person#častuška#-
-_person#pěvuška#-
-_person#želvuška#-
 _person#chyška#-
 _person#kyška#-
-_person#myška#-
 _person#ryška#-
 _person#výška#-
 _person#navýška#-
@@ -20913,7 +20780,6 @@ _person#desiatka#-
 _person#sviatka#-
 _person#jatka#-
 _person#stojatka#-
-_person#kyjatka#-
 _person#katka#-
 _person#advokátka#+
 _person#popis|Advokátka#-
@@ -20953,13 +20819,10 @@ _person#janatka#-
 _person#vřetenatka#-
 _person#bublinatka#-
 _person#závojnatka#-
-_person#skelnatka#-
 _person#závornatka#-
-_person#lasturnatka#-
 _person#rosnatka#-
 _person#šťavnatka#-
 _person#žláznatka#-
-_person#sliznatka#-
 _person#poznatka#-
 _person#parožnatka#-
 _person#patka#-
@@ -20995,7 +20858,6 @@ _person#vrátka#-
 _person#návratka#-
 _person#zviřátka#-
 _person#zvířátka#-
-_person#ocasatka#-
 _person#desátka#-
 _person#padesátka#-
 _person#třistapadesátka#-
@@ -21011,7 +20873,6 @@ _person#dvaasedmdesátka#-
 _person#osmasedmdesátka#-
 _person#osmdesátka#-
 _person#pětaosmdesátka#-
-_person#kosatka#-
 _person#šatka#-
 _person#ošatka#-
 _person#košatka#-
@@ -21022,12 +20883,10 @@ _person#pozostatka#-
 _person#pozustatka#-
 _person#tržišťátka#-
 _person#vatka#-
-_person#hlavatka#-
 _person#ořezávatka#-
 _person#vořezávatka#-
 _person#ledovatka#-
 _person#malovátka#-
-_person#plovatka#-
 _person#jinovatka#-
 _person#syrovátka#-
 _person#křižovatka#-
@@ -21036,7 +20895,6 @@ _person#svatka#-
 _person#zátka#-
 _person#zavázatka#-
 _person#stověžatka#-
-_person#kožatka#-
 _person#mužatka#+
 _person#stodvanáctka#-
 _person#jedenáctka#-
@@ -21047,7 +20905,6 @@ _person#čtrnáctka#-
 _person#stočtrnáctka#-
 _person#šestnáctka#-
 _person#bětka#-
-_person#cibetka#-
 _person#cetka#-
 _person#včetka#-
 _person#kadetka#+
@@ -21084,7 +20941,6 @@ _person#atletka#+
 _person#superatletka#+
 _person#kotletka#-
 _person#dvouletka#-
-_person#sametka#-
 _person#limetka#-
 _person#kometka#-
 _person#planetka#-
@@ -21106,7 +20962,6 @@ _person#osmsetpětka#-
 _person#retka#-
 _person#cigaretka#-
 _person#operetka#-
-_person#fretka#-
 _person#mažoretka#+
 _person#interpretka#+
 _person#tretka#-
@@ -21118,7 +20973,6 @@ _person#všetká#-
 _person#predovšetká#-
 _person#tětka#-
 _person#odvetka#-
-_person#krevetka#-
 _person#ivetka#-
 _person#zetka#-
 _person#fazetka#-
@@ -21292,7 +21146,6 @@ _person#botka#-
 _person#slabotka#-
 _person#polobotka#-
 _person#robotka#-
-_person#vyandotka#-
 _person#přípodotka#-
 _person#fotka#-
 _person#promofotka#-
@@ -21348,7 +21201,6 @@ _person#nevestka#-
 _person#svestka#-
 _person#švestka#-
 _person#pološvestka#-
-_person#medozvěstka#-
 _person#arabistka#+
 _person#cistka#-
 _person#nacistka#+
@@ -21559,7 +21411,6 @@ _person#kytka#-
 _person#přehlýtka#-
 _person#třpytka#-
 _person#krytka#-
-_person#nesytka#-
 _person#výtka#-
 _person#nauka#-
 _person#náuka#-
@@ -21575,7 +21426,6 @@ _person#luka#-
 _person#lúka#-
 _person#odluka#-
 _person#proluka#-
-_person#sluka#-
 _person#výluka#-
 _person#rozluka#-
 _person#muka#-
@@ -21643,10 +21493,6 @@ _person#střihavka#-
 _person#kulhavka#-
 _person#střhavka#-
 _person#tuhavka#-
-_person#pijavka#-
-_person#kavka#-
-_person#skákavka#-
-_person#škrkavka#-
 _person#prskavka#-
 _person#sykavka#-
 _person#netykavka#+
@@ -21663,13 +21509,11 @@ _person#ohlávka#-
 _person#bělohlávka#-
 _person#lysohlávka#-
 _person#šmykľavka#-
-_person#volavka#-
 _person#předvolávka#-
 _person#odvolávka#-
 _person#plavka#-
 _person#náplavka#-
 _person#slavka#-
-_person#slávka#-
 _person#premávka#-
 _person#tmavka#-
 _person#zkumavka#-
@@ -21731,12 +21575,9 @@ _person#savka#-
 _person#násavka#-
 _person#pásavka#-
 _person#třasavka#-
-_person#třesavka#-
 _person#prisavka#-
-_person#přísavka#-
 _person#klusavka#-
 _person#octávka#-
-_person#létavka#-
 _person#oktavka#-
 _person#oktávka#-
 _person#slintavka#-
@@ -21773,7 +21614,6 @@ _person#nálevka#-
 _person#polévka#-
 _person#plevka#-
 _person#výlevka#-
-_person#pěvka#-
 _person#popěvka#-
 _person#spěvka#-
 _person#pčíspěvka#-
@@ -21813,7 +21653,6 @@ _person#vysvětlivka#-
 _person#citlivka#+
 _person#tlumivka#-
 _person#moučnivka#-
-_person#denivka#-
 _person#zelenivka#-
 _person#slinivka#-
 _person#vášnivka#-
@@ -21823,15 +21662,12 @@ _person#krivka#-
 _person#řivka#-
 _person#zářivka#-
 _person#vířivka#-
-_person#křivka#-
-_person#kopřivka#-
 _person#výřivka#-
 _person#sivka#-
 _person#hasivka#-
 _person#hlasivka#-
 _person#rozsivka#-
 _person#nášivka#-
-_person#prašivka#-
 _person#obšívka#-
 _person#podšívka#-
 _person#sešívka#-
@@ -21854,7 +21690,6 @@ _person#vrbovka#-
 _person#palubovka#-
 _person#klubovka#-
 _person#šroubovka#-
-_person#srdcovka#-
 _person#ulicovka#-
 _person#tisicovka#-
 _person#tisícovka#-
@@ -21914,11 +21749,8 @@ _person#leasingovka#-
 _person#podlahovka#-
 _person#váhovka#-
 _person#svahovka#-
-_person#hrachovka#-
-_person#prachovka#-
 _person#oddechovka#-
 _person#plechovka#-
-_person#mechovka#-
 _person#ořechovka#-
 _person#odpichovka#-
 _person#schovka#-
@@ -21930,7 +21762,6 @@ _person#pohovka#-
 _person#rohovka#-
 _person#trhovka#-
 _person#flashovka#-
-_person#duhovka#-
 _person#kruhovka#-
 _person#rádiovka#-
 _person#studiovka#-
@@ -21941,7 +21772,6 @@ _person#zbrojovka#-
 _person#nástrojovka#-
 _person#přístrojovka#-
 _person#sojovka#-
-_person#kyjovka#-
 _person#lakovka#-
 _person#teplákovka#-
 _person#sickovka#-
@@ -21961,14 +21791,12 @@ _person#jednodiskovka#-
 _person#pískovka#-
 _person#tiskovka#-
 _person#wiskovka#-
-_person#voskovka#-
 _person#výškovka#-
 _person#látkovka#-
 _person#bukovka#-
 _person#zvukovka#-
 _person#obrazkovka#-
 _person#cimbálovka#-
-_person#korálovka#-
 _person#sálovka#-
 _person#hoblovka#-
 _person#clovka#-
@@ -21976,7 +21804,6 @@ _person#človka#-
 _person#ačlovka#-
 _person#zrcadlovka#-
 _person#letadlovka#-
-_person#sedlovka#-
 _person#křídlovka#-
 _person#kabelovka#-
 _person#čelovka#-
@@ -21999,7 +21826,6 @@ _person#minolovka#-
 _person#topolovka#-
 _person#sólovka#-
 _person#tuplovka#-
-_person#perlovka#-
 _person#draslovka#-
 _person#číslovka#-
 _person#kýlovka#-
@@ -22039,7 +21865,6 @@ _person#balkonovka#-
 _person#kuponovka#-
 _person#kupónovka#-
 _person#vernovka#-
-_person#zrnovka#-
 _person#třešňovka#-
 _person#višňovka#-
 _person#letounovka#-
@@ -22108,7 +21933,6 @@ _person#sametovka#-
 _person#šlechtovka#-
 _person#pocitovka#-
 _person#hitovka#-
-_person#sítovka#-
 _person#síťovka#-
 _person#aktovka#-
 _person#jednoaktovka#-
@@ -22140,10 +21964,8 @@ _person#mostovka#-
 _person#čtyřstovka#-
 _person#dvoustovka#-
 _person#lašťovka#-
-_person#vlaštovka#-
 _person#vlašťovka#-
 _person#dešťovka#-
-_person#lištovka#-
 _person#chuťovka#-
 _person#vejmutovka#-
 _person#minutovka#-
@@ -22177,11 +21999,9 @@ _person#krizovka#-
 _person#vozovka#-
 _person#uvozovka#-
 _person#nouzovka#-
-_person#ježovka#-
 _person#řížovka#-
 _person#křížovka#-
 _person#smržovka#-
-_person#užovka#-
 _person#růžovka#-
 _person#prvka#-
 _person#geoprvka#-
@@ -22349,7 +22169,6 @@ _person#zmrzka#-
 _person#zrzka#+
 _person#lutzka#-
 _person#uzka#-
-_person#medúzka#-
 _person#transfúzka#-
 _person#obchůzka#-
 _person#pochůzka#-
@@ -22410,7 +22229,6 @@ _person#trojtažka#-
 _person#dvojtažka#-
 _person#súperťažka#-
 _person#stážka#-
-_person#vážka#-
 _person#navážka#-
 _person#zavážka#-
 _person#dovážka#-
@@ -22515,11 +22333,7 @@ _person#nožka#-
 _person#panožka#-
 _person#podnožka#-
 _person#trojnožka#-
-_person#dvojnožka#-
-_person#mnohonožka#-
 _person#ponožka#-
-_person#žábronožka#-
-_person#stonožka#-
 _person#pajtrnožka#-
 _person#čtyřnožka#-
 _person#roznožka#-
@@ -22621,7 +22435,6 @@ _person#neprofesionála#-
 _person#pseudoprofesionála#-
 _person#poloprofesionála#-
 _person#goala#-
-_person#koala#-
 _person#popis|Seppälä#-
 _person#spála#-
 _person#rála#-
@@ -22664,7 +22477,6 @@ _person#rezala#-
 _person#univerzála#-
 _person#ležala#-
 _person#křížala#-
-_person#žížala#-
 _person#trabla#-
 _person#šabľa#-
 _person#debla#-
@@ -22723,7 +22535,6 @@ _person#supercela#-
 _person#scela#-
 _person#úcela#-
 _person#zcela#-
-_person#včela#-
 _person#dela#-
 _person#citadela#-
 _person#nedela#-
@@ -22788,8 +22599,6 @@ _person#dospela#-
 _person#rela#-
 _person#prokarela#-
 _person#udrela#-
-_person#makrela#-
-_person#korela#-
 _person#pastorela#-
 _person#vorela#-
 _person#strela#-
@@ -22804,7 +22613,6 @@ _person#kovořemesela#-
 _person#vesela#-
 _person#veselá#-
 _person#neveselá#-
-_person#rosela#-
 _person#russela#-
 _person#kysela#-
 _person#kyselá#-
@@ -22866,7 +22674,6 @@ _person#mininovela#-
 _person#euronovela#-
 _person#megapixela#-
 _person#subpixela#-
-_person#gazela#-
 _person#manzela#-
 _person#kuzela#-
 _person#ržela#-
@@ -22881,7 +22688,6 @@ _person#sahla#-
 _person#uprchlá#-
 _person#rychla#-
 _person#rýchla#-
-_person#jehla#-
 _person#ihlá#-
 _person#cihla#-
 _person#tihla#-
@@ -22909,7 +22715,6 @@ _person#laktobacila#-
 _person#difficila#-
 _person#pujcila#-
 _person#tocila#-
-_person#činčila#-
 _person#dila#-
 _person#oddila#-
 _person#popis|Podíla#-
@@ -22938,7 +22743,6 @@ _person#pupila#-
 _person#kamarila#-
 _person#fibrila#-
 _person#gerila#-
-_person#gorila#-
 _person#podporila#-
 _person#živorila#-
 _person#vytvorila#-
@@ -23035,7 +22839,6 @@ _person#htmla#-
 _person#brumla#-
 _person#linla#-
 _person#onla#-
-_person#saola#-
 _person#bola#-
 _person#blábola#-
 _person#parabola#-
@@ -23234,7 +23037,6 @@ _person#minuskula#-
 _person#korpuskula#-
 _person#lula#-
 _person#celula#-
-_person#mula#-
 _person#smula#-
 _person#smůla#-
 _person#nula#-
@@ -23343,7 +23145,6 @@ _person#znama#-
 _person#neznama#-
 _person#pama#-
 _person#spama#-
-_person#rama#-
 _person#ráma#-
 _person#melodarama#-
 _person#brama#-
@@ -23663,7 +23464,6 @@ _person#progarma#-
 _person#dharma#-
 _person#karma#-
 _person#jarmakarma#-
-_person#parma#-
 _person#zdrma#-
 _person#derma#-
 _person#herma#-
@@ -23729,7 +23529,6 @@ _person#bluma#-
 _person#ymuma#-
 _person#obouma#-
 _person#dvouma#-
-_person#puma#-
 _person#ruma#-
 _person#druma#-
 _person#průma#-
@@ -23832,7 +23631,6 @@ _person#atifana#-
 _person#irfana#-
 _person#gána#-
 _person#nagana#-
-_person#salangana#-
 _person#maingana#-
 _person#morgána#-
 _person#hana#-
@@ -23984,7 +23782,6 @@ _person#vyhrana#-
 _person#vyhraná#-
 _person#probirana#-
 _person#sbíraná#-
-_person#piraňa#-
 _person#delorana#-
 _person#porána#-
 _person#dvorana#-
@@ -24004,7 +23801,6 @@ _person#oboustrana#-
 _person#dvoustrana#-
 _person#obštrana#-
 _person#pocurana#-
-_person#vrána#-
 _person#zrana#-
 _person#zrána#-
 _person#zazrana#-
@@ -24544,7 +24340,6 @@ _person#terena#-
 _person#sverena#-
 _person#migréna#-
 _person#gangréna#-
-_person#siréna#-
 _person#rozšírená#-
 _person#moréna#-
 _person#podporená#-
@@ -24557,7 +24352,6 @@ _person#tréňa#-
 _person#usetrena#-
 _person#ošetrená#-
 _person#pobúrená#-
-_person#muréna#-
 _person#navrená#-
 _person#otevrena#-
 _person#otevrená#-
@@ -24622,7 +24416,6 @@ _person#omluvená#-
 _person#umluvená#-
 _person#zvěna#-
 _person#ozvěna#-
-_person#hyena#-
 _person#zena#-
 _person#házená#-
 _person#skazená#-
@@ -24670,7 +24463,6 @@ _person#aligna#-
 _person#webdesigna#-
 _person#redesigna#-
 _person#bahna#-
-_person#kachna#-
 _person#machna#-
 _person#včechna#-
 _person#vsechna#-
@@ -24810,7 +24602,6 @@ _person#hladina#-
 _person#superhladina#-
 _person#mladina#-
 _person#sladina#-
-_person#amadina#-
 _person#kapradina#-
 _person#hovadina#-
 _person#zadina#-
@@ -26449,9 +26240,7 @@ _person#mafuna#-
 _person#laguna#-
 _person#šóguna#-
 _person#júna#-
-_person#kuna#-
 _person#mikuna#-
-_person#vikuňa#-
 _person#gorilkuna#-
 _person#skuna#-
 _person#luna#-
@@ -26795,7 +26584,6 @@ _person#přijaloa#-
 _person#máloa#-
 _person#dloa#-
 _person#vznikloa#-
-_person#moa#-
 _person#rmoa#-
 _person#cnoa#-
 _person#opačnoá#-
@@ -26860,7 +26648,6 @@ _person#ekipa#-
 _person#lípa#-
 _person#flipa#-
 _person#filipa#-
-_person#pipa#-
 _person#pípa#-
 _person#ripa#-
 _person#gripa#-
@@ -26874,7 +26661,6 @@ _person#nejpa#-
 _person#pejpa#-
 _person#alpa#-
 _person#skialpa#-
-_person#malpa#-
 _person#pedipalpa#-
 _person#katalpa#-
 _person#culpa#-
@@ -26914,7 +26700,6 @@ _person#příkopa#-
 _person#synkopa#-
 _person#dokopa#-
 _person#archiepiskopa#-
-_person#antilopa#-
 _person#klopa#-
 _person#slopa#-
 _person#nopa#-
@@ -26987,14 +26772,12 @@ _person#rozpa#-
 _person#nevyzpa#-
 _person#misenqa#-
 _person#ra#-
-_person#ara#-
 _person#bára#-
 _person#musicbara#-
 _person#scrollbara#-
 _person#toolbara#-
 _person#sportbara#-
 _person#subara#-
-_person#kapybara#-
 _person#srdcara#-
 _person#nadvěcara#-
 _person#vancara#-
@@ -27008,7 +26791,6 @@ _person#nazdarnazdara#-
 _person#nezdara#-
 _person#cleara#-
 _person#fanfára#-
-_person#gara#-
 _person#shaggara#-
 _person#cigára#-
 _person#sahara#-
@@ -27041,7 +26823,6 @@ _person#klára#-
 _person#radiolara#-
 _person#vocabulara#-
 _person#formulara#-
-_person#mara#-
 _person#mára#-
 _person#damara#-
 _person#tamara#-
@@ -27097,7 +26878,6 @@ _person#dewara#-
 _person#babra#-
 _person#žábra#-
 _person#algebra#-
-_person#zebra#-
 _person#libra#-
 _person#ambra#-
 _person#septembra#-
@@ -27107,7 +26887,6 @@ _person#zubrbobra#-
 _person#cobra#-
 _person#dobrá#-
 _person#nedobrá#-
-_person#kobra#-
 _person#zlobra#-
 _person#probra#-
 _person#októbra#-
@@ -27144,7 +26923,6 @@ _person#ludra#-
 _person#mudra#-
 _person#powdra#-
 _person#hydra#-
-_person#vydra#-
 _person#zdra#-
 _person#éra#-
 _person#sphaera#-
@@ -27314,7 +27092,6 @@ _person#záměra#-
 _person#preméra#-
 _person#temera#-
 _person#témera#-
-_person#chiméra#-
 _person#primera#-
 _person#oldtimera#-
 _person#takmera#-
@@ -27611,7 +27388,6 @@ _person#ubora#-
 _person#videosoubora#-
 _person#makrosoubora#-
 _person#súbora#-
-_person#razbora#-
 _person#decora#-
 _person#nadora#-
 _person#ridora#-
@@ -27648,7 +27424,6 @@ _person#skora#-
 _person#neskora#-
 _person#nejneskôra#-
 _person#úkora#-
-_person#sýkora#-
 _person#lóra#-
 _person#flora#-
 _person#flóra#-
@@ -27762,7 +27537,6 @@ _person#kurra#-
 _person#azzurra#-
 _person#kosra#-
 _person#browsra#-
-_person#ondatra#-
 _person#theatra#-
 _person#játra#-
 _person#latra#-
@@ -27779,7 +27553,6 @@ _person#netra#-
 _person#petra#-
 _person#retra#-
 _person#tretra#-
-_person#tetra#-
 _person#triquetra#-
 _person#arbitra#-
 _person#orbitra#-
@@ -27885,7 +27658,6 @@ _person#infrastrukura#-
 _person#lura#-
 _person#alura#-
 _person#mura#-
-_person#můra#-
 _person#chmura#-
 _person#kanimůra#-
 _person#nura#-
@@ -28041,7 +27813,6 @@ _person#cenzura#-
 _person#autocenzura#-
 _person#klauzura#-
 _person#azzura#-
-_person#ježura#-
 _person#brožura#-
 _person#lavra#-
 _person#lávra#-
@@ -28351,7 +28122,6 @@ _person#nedosa#-
 _person#pyrenoidosa#-
 _person#commandosa#-
 _person#mononukleosa#-
-_person#fosa#-
 _person#langosa#-
 _person#jehosa#-
 _person#thosa#-
@@ -28389,7 +28159,6 @@ _person#dinosa#-
 _person#aeruginosa#-
 _person#rovnocennosa#-
 _person#hypnosa#-
-_person#appaloosa#-
 _person#poloosa#-
 _person#purposa#-
 _person#rosa#-
@@ -28414,7 +28183,6 @@ _person#laktosa#-
 _person#tomentosa#-
 _person#frontosa#-
 _person#photosa#-
-_person#vosa#-
 _person#nervosa#-
 _person#kapsa#-
 _person#zapsa#-
@@ -28491,7 +28259,6 @@ _person#obusa#-
 _person#autobusA#-
 _person#spíšedomácíchhráčůsa#-
 _person#medusa#-
-_person#husa#-
 _person#vkusa#-
 _person#lusa#-
 _person#musa#-
@@ -28506,7 +28273,6 @@ _person#keysa#-
 _person#phyllostachysa#-
 _person#jakýstakýsa#-
 _person#elektrolysa#-
-_person#krysa#-
 _person#navysa#-
 _person#strázsa#-
 _person#najtazsa#-
@@ -28569,7 +28335,6 @@ _person#přijatá#-
 _person#vpjata#-
 _person#přjata#-
 _person#káťa#-
-_person#surikata#-
 _person#odvokáta#-
 _person#pyskatá#-
 _person#lata#-
@@ -28811,7 +28576,6 @@ _person#námeta#-
 _person#naměta#-
 _person#pameta#-
 _person#predmeta#-
-_person#kometa#-
 _person#cermeta#-
 _person#neta#-
 _person#neťa#-
@@ -28843,7 +28607,6 @@ _person#nazpeta#-
 _person#reta#-
 _person#$reta#-
 _person#cigareta#-
-_person#kareta#-
 _person#dreta#-
 _person#opereta#-
 _person#sekreta#-
@@ -28868,7 +28631,6 @@ _person#veta#-
 _person#věta#-
 _person#odveta#-
 _person#kleveta#-
-_person#kreveta#-
 _person#iveta#-
 _person#kveta#-
 _person#korveta#-
@@ -29218,7 +28980,6 @@ _person#solidarita#-
 _person#linearita#-
 _person#nelinearita#-
 _person#vulgarita#-
-_person#margarita#-
 _person#subsidiarita#-
 _person#polarita#-
 _person#bipolarita#-
@@ -29403,7 +29164,6 @@ _person#vzita#-
 _person#ežita#-
 _person#ežitá#-
 _person#gigabajta#-
-_person#krajta#-
 _person#sprajta#-
 _person#sajta#-
 _person#skejta#-
@@ -29973,7 +29733,6 @@ _person#pólista#+
 _person#monopolista#+
 _person#sólista#+
 _person#toplista#-
-_person#houslista#+
 _person#netlista#-
 _person#setlista#-
 _person#projektlista#-
@@ -30300,8 +30059,6 @@ _person#usta#-
 _person#ústa#-
 _person#busta#-
 _person#robusta#-
-_person#langusta#-
-_person#mangusta#-
 _person#pohusta#-
 _person#zhusta#-
 _person#justa#-
@@ -30376,7 +30133,6 @@ _person#škuta#-
 _person#lutá#-
 _person#valuta#-
 _person#filuta#+
-_person#voluta#-
 _person#pluta#-
 _person#zluta#-
 _person#zlutá#-
@@ -30394,7 +30150,6 @@ _person#touta#-
 _person#puta#-
 _person#bruta#-
 _person#kruta#-
-_person#krůta#-
 _person#zákruta#-
 _person#šrůta#-
 _person#maršruta#-
@@ -30450,7 +30205,6 @@ _person#polemizovatobava#-
 _person#společnýobava#-
 _person#vybava#-
 _person#výbava#-
-_person#kolčava#-
 _person#pančava#-
 _person#dava#-
 _person#dáva#-
@@ -30488,7 +30242,6 @@ _person#očakáva#-
 _person#skákavá#-
 _person#lákava#-
 _person#ocekava#-
-_person#pěnkava#-
 _person#pinkava#-
 _person#získava#-
 _person#vrtkava#-
@@ -30682,7 +30435,6 @@ _person#šťáva#-
 _person#ottava#-
 _person#zlutava#-
 _person#usmevava#-
-_person#čivava#-
 _person#zachováva#-
 _person#nominováva#-
 _person#obtezovava#-
@@ -30868,7 +30620,6 @@ _person#kalva#-
 _person#malva#-
 _person#salva#-
 _person#zelva#-
-_person#želva#-
 _person#bulva#-
 _person#vulva#-
 _person#sylva#-
@@ -31127,7 +30878,6 @@ _person#císařová#-
 _person#rozšiřová#-
 _person#vepřová#-
 _person#vyšetřová#-
-_person#sova#-
 _person#sová#-
 _person#volnočasová#-
 _person#mlaďasová#-
@@ -31270,7 +31020,6 @@ _person#vymluva#-
 _person#výmluva#-
 _person#zmluva#-
 _person#rozmluva#-
-_person#žluva#-
 _person#předmuva#-
 _person#ouva#-
 _person#budouva#-
@@ -31476,7 +31225,6 @@ _person#nareza#-
 _person#tareza#-
 _person#plazmaferéza#-
 _person#tereza#-
-_person#gueréza#-
 _person#fréza#-
 _person#kataforéza#-
 _person#impreza#-
@@ -31580,7 +31328,6 @@ _person#skolióza#-
 _person#fuzarióza#-
 _person#listerióza#-
 _person#powerjóza#-
-_person#koza#-
 _person#jelikoza#-
 _person#aflatoxikóza#-
 _person#mykotoxikóza#-
@@ -31730,7 +31477,6 @@ _person#elektrolýza#-
 _person#pyrolýza#-
 _person#sumyza#-
 _person#žádnýza#-
-_person#vyza#-
 _person#pohyblivýza#-
 _person#blogzza#-
 _person#skizza#-
@@ -31782,20 +31528,16 @@ _person#zaráb#-
 _person#dráb#+
 _person#nosegrab#-
 _person#mihráb#-
-_person#krab#-
 _person#koráb#-
 _person#svrab#-
-_person#jeřáb#-
 _person#autojeřáb#-
 _person#třab#-
-_person#jestřáb#-
 _person#wasab#-
 _person#tab#-
 _person#datab#-
 _person#štáb#+
 _person#vab#-
 _person#opakovaB#-
-_person#šváb#-
 _person#půvab#-
 _person#zab#-
 _person#hidžáb#-
@@ -31902,7 +31644,6 @@ _person#hrob#-
 _person#mikrob#-
 _person#škrob#-
 _person#prob#-
-_person#sob#-
 _person#několikanásob#-
 _person#trojnásob#-
 _person#dvojnásob#-
@@ -31952,7 +31693,6 @@ _person#miniklub#-
 _person#euroklub#-
 _person#automotoklub#-
 _person#superklub#-
-_person#holub#-
 _person#slub#-
 _person#menuB#-
 _person#zásnub#-
@@ -31971,7 +31711,6 @@ _person#porub#-
 _person#prorub#-
 _person#srub#-
 _person#vrub#-
-_person#velevrub#-
 _person#výrub#-
 _person#sub#-
 _person#zub#-
@@ -32116,7 +31855,6 @@ _person#smešovaec#-
 _person#babec#-
 _person#slabec#-
 _person#brabec#-
-_person#vrabec#-
 _person#krytolebec#-
 _person#konkurebec#-
 _person#ždibec#-
@@ -32140,7 +31878,6 @@ _person#trhuvůbec#-
 _person#trojzubec#-
 _person#vrbozubec#-
 _person#šavlozubec#-
-_person#čtverzubec#-
 _person#vbec#-
 _person#výbec#-
 _person#nakoncec#-
@@ -32211,7 +31948,6 @@ _person#árijec#+
 _person#neárijec#-
 _person#lévijec#-
 _person#ujec#-
-_person#krahujec#-
 _person#vjec#-
 _person#kec#-
 _person#rakec#-
@@ -32269,7 +32005,6 @@ _person#zbabělec#+
 _person#zemědělec#+
 _person#ekozemědělec#+
 _person#zemdělec#-
-_person#jelec#-
 _person#zemělec#-
 _person#krmelec#-
 _person#kotrmelec#-
@@ -32365,7 +32100,6 @@ _person#výkrmec#-
 _person#chlumec#-
 _person#srumec#-
 _person#šrumec#-
-_person#sumec#-
 _person#anec#-
 _person#habanec#-
 _person#dlabanec#-
@@ -32518,7 +32252,6 @@ _person#zabedněnec#+
 _person#vklíněnec#-
 _person#umíněnec#+
 _person#přízněnec#-
-_person#vrápenec#-
 _person#vápenec#-
 _person#slepenec#-
 _person#zaslepenec#+
@@ -32539,7 +32272,6 @@ _person#opeřenec#-
 _person#pověřenec#+
 _person#svěřenec#+
 _person#kmotřenec#+
-_person#pestřenec#-
 _person#sestřenec#-
 _person#vzbouřenec#+
 _person#nadsenec#-
@@ -32569,7 +32301,6 @@ _person#pojištěnec#+
 _person#roštěnec#-
 _person#propuštěnec#+
 _person#věnec#-
-_person#mravenec#-
 _person#wizard@mravenec#-
 _person#ervenec#-
 _person#červenec#-
@@ -32656,8 +32387,6 @@ _person#ultramaratónec#+
 _person#červoněc#-
 _person#zvonec#-
 _person#hrnec#-
-_person#srnec#-
-_person#pilníkotrnec#-
 _person#junec#-
 _person#vúnec#-
 _person#mlýnec#-
@@ -32672,7 +32401,6 @@ _person#střapec#-
 _person#potapec#-
 _person#čepec#-
 _person#klepec#-
-_person#slepec#+
 _person#tepec#+
 _person#stříbrotepec#+
 _person#veršotepec#+
@@ -32727,7 +32455,6 @@ _person#obrazoborec#-
 _person#krusnohorec#-
 _person#korec#-
 _person#krakorec#-
-_person#skorec#-
 _person#norec#-
 _person#praporec#-
 _person#dvorec#-
@@ -32737,7 +32464,6 @@ _person#kosoštvorec#-
 _person#vzorec#-
 _person#prec#-
 _person#zytrec#-
-_person#bourec#-
 _person#sourec#-
 _person#půrec#-
 _person#turec#-
@@ -32758,7 +32484,6 @@ _person#sec#-
 _person#vlasec#-
 _person#prenasec#-
 _person#pásec#-
-_person#krasec#-
 _person#dějepisec#+
 _person#zeměpisec#+
 _person#rodopisec#+
@@ -32768,11 +32493,9 @@ _person#romanopisec#+
 _person#těsnopisec#+
 _person#letopisec#+
 _person#životopisec#+
-_person#rejsec#-
 _person#msec#-
 _person#nsec#-
 _person#kosec#-
-_person#krytonosec#-
 _person#parsec#-
 _person#měšec#-
 _person#hlušec#-
@@ -32781,15 +32504,12 @@ _person#pryšec#-
 _person#kabátec#-
 _person#rohatec#-
 _person#růžkatec#-
-_person#křídlatec#-
 _person#platec#-
 _person#neplátec#-
 _person#nettoplátec#-
 _person#vačnatec#-
-_person#kopinatec#-
 _person#svalnatec#+
 _person#skořepnatec#-
-_person#rournatec#-
 _person#chobotnatec#-
 _person#čelistnatec#-
 _person#bezčelistnatec#-
@@ -32836,14 +32556,10 @@ _person#věc#-
 _person#avec#-
 _person#zvedavec#-
 _person#zvědavec#+
-_person#hlodavec#-
 _person#váhavec#+
-_person#žahavec#-
-_person#čichavec#-
 _person#lijavec#-
 _person#těkavec#-
 _person#podnikavec#+
-_person#krkavec#-
 _person#laskavec#-
 _person#prskavec#-
 _person#truskavec#-
@@ -32853,7 +32569,6 @@ _person#přežvýkavec#-
 _person#záhlavec#-
 _person#tvrdohlavec#+
 _person#holohlavec#+
-_person#kulohlavec#-
 _person#plavec#+
 _person#neplavec#+
 _person#návštěvníkyneplavec#-
@@ -32870,7 +32585,6 @@ _person#spravec#-
 _person#masozravec#-
 _person#býložravec#-
 _person#hmyzožravec#-
-_person#savec#-
 _person#krasavec#+
 _person#psavec#-
 _person#obětavec#+
@@ -32885,11 +32599,9 @@ _person#podstavec#-
 _person#podlézavec#+
 _person#rezavec#-
 _person#vůbvec#-
-_person#pěvec#+
 _person#krasopěvec#+
 _person#sevec#-
 _person#pastevec#+
-_person#jezevec#-
 _person#spravedlivec#+
 _person#truchlivec#+
 _person#sklivec#-
@@ -32935,10 +32647,7 @@ _person#snaživec#+
 _person#náruživec#+
 _person#wahhábovec#-
 _person#webovec#-
-_person#zubovec#-
 _person#osmitisícovec#-
-_person#terčovec#-
-_person#hadovec#-
 _person#ledovec#-
 _person#bylidovec#-
 _person#šloufovec#-
@@ -32949,7 +32658,6 @@ _person#prachovec#-
 _person#talichovec#-
 _person#ruchovec#+
 _person#zběhovec#-
-_person#vlhovec#-
 _person#rohovec#-
 _person#trhovec#+
 _person#ahmadíjovec#-
@@ -32970,12 +32678,10 @@ _person#lopatkovec#-
 _person#pavoukovec#-
 _person#lýkovec#-
 _person#masarykovec#+
-_person#kroužkovec#-
 _person#lovec#+
 _person#jalovec#-
 _person#kralovec#-
 _person#královec#-
-_person#korálovec#-
 _person#parzivalovec#-
 _person#svalovec#+
 _person#yalovec#-
@@ -32984,12 +32690,8 @@ _person#vřídlovec#-
 _person#mladohegelovec#+
 _person#jílovec#-
 _person#perlovec#-
-_person#orlovec#-
-_person#obratlovec#-
 _person#kdoulovec#-
-_person#krokodýlovec#-
 _person#nostradamovec#+
-_person#tlamovec#-
 _person#talmovec#-
 _person#zdomovec#-
 _person#bezdomovec#+
@@ -33007,7 +32709,6 @@ _person#slínovec#-
 _person#vlnovec#-
 _person#limonovec#-
 _person#moonovec#-
-_person#zvonovec#-
 _person#okounovec#-
 _person#synovec#+
 _person#prasynovec#-
@@ -33029,9 +32730,6 @@ _person#lasturovec#-
 _person#štúrovec#-
 _person#kadyrovec#-
 _person#krunyrovec#-
-_person#úhořovec#-
-_person#krunýřovec#-
-_person#pásovec#-
 _person#vřesovec#-
 _person#patisovec#-
 _person#grossovec#+
@@ -33046,7 +32744,6 @@ _person#sportovec#+
 _person#športovec#-
 _person#kytovec#-
 _person#kožovec#-
-_person#červec#-
 _person#svec#-
 _person#švec#+
 _person#mluvec#-
@@ -33078,23 +32775,18 @@ _person#prohlízec#-
 _person#prhlizec#-
 _person#vyvozec#-
 _person#ryzec#-
-_person#hryzec#-
 _person#podražec#-
 _person#pražec#-
 _person#běžec#+
 _person#ťežec#-
-_person#ostnokožec#-
 _person#tlustokožec#-
 _person#dvojnožec#-
 _person#dírkonožec#-
 _person#ramenonožec#-
 _person#kořenonožec#-
-_person#hlavonožec#-
 _person#ploutvonožec#-
 _person#čtvernožec#-
 _person#jednorožec#-
-_person#nosorožec#-
-_person#kozorožec#-
 _person#iC#-
 _person#specifikaic#-
 _person#naic#-
@@ -33156,7 +32848,6 @@ _person#pretrvavajic#-
 _person#pouzivajic#-
 _person#vyplyvajic#-
 _person#zajic#-
-_person#zajíc#-
 _person#vracejic#-
 _person#zavadejic#-
 _person#nadchazejic#-
@@ -33211,7 +32902,6 @@ _person#economic#-
 _person#ekonomic#-
 _person#permic#-
 _person#níc#-
-_person#kanic#-
 _person#nanic#-
 _person#panic#+
 _person#tympanic#-
@@ -33225,7 +32915,6 @@ _person#sonic#-
 _person#olympic#-
 _person#spectroscopic#-
 _person#topic#-
-_person#špic#-
 _person#typic#-
 _person#ric#-
 _person#fabric#-
@@ -33509,7 +33198,6 @@ _person#rollsroyc#-
 _person#pryc#-
 _person#strýc#+
 _person#prastrýc#+
-_person#sýc#-
 _person#psyc#-
 _person#tyc#-
 _person#stýc#-
@@ -33529,7 +33217,6 @@ _person#karabáč#-
 _person#pohrabáč#-
 _person#gambáč#-
 _person#hrbáč#+
-_person#trubač#+
 _person#prehliadač#-
 _person#obladač#-
 _person#nakladač#+
@@ -33564,14 +33251,10 @@ _person#poslouchač#-
 _person#sucháč#-
 _person#dýchač#-
 _person#šlehač#-
-_person#střihač#+
 _person#stihač#-
 _person#superboháč#+
-_person#noháč#-
-_person#roháč#-
 _person#paroháč#+
 _person#nactiutrhač#+
-_person#vrhač#+
 _person#šakuhač#-
 _person#spoluháč#-
 _person#rouhač#+
@@ -33579,7 +33262,6 @@ _person#krouhač#-
 _person#postruhač#-
 _person#kteříač#-
 _person#flákač#+
-_person#strakáč#-
 _person#mačkač#-
 _person#písničkáč#-
 _person#mekáč#-
@@ -33589,7 +33271,6 @@ _person#blikač#-
 _person#měkkáč#-
 _person#pankáč#+
 _person#punkáč#+
-_person#okáč#-
 _person#pupkáč#+
 _person#vrkač#-
 _person#maskáč#-
@@ -33599,7 +33280,6 @@ _person#piskač#-
 _person#tryskáč#-
 _person#výškáč#-
 _person#užitkáč#-
-_person#bukač#-
 _person#dřívkáč#-
 _person#ykač#-
 _person#smykač#-
@@ -33638,8 +33318,6 @@ _person#chomáč#-
 _person#transformač#-
 _person#chumáč#-
 _person#nač#-
-_person#hranáč#-
-_person#hřebenáč#-
 _person#zelenáč#+
 _person#kamenáč#-
 _person#ramenáč#+
@@ -33664,16 +33342,11 @@ _person#šupináč#-
 _person#vypínač#-
 _person#kvetináč#-
 _person#květináč#-
-_person#martináč#-
 _person#zavináč#-
 _person#vyžínač#-
-_person#kudrnáč#+
 _person#krnáč#-
-_person#tmavoskvrnáč#-
 _person#listnáč#-
-_person#ostnáč#-
 _person#huňáč#-
-_person#korunáč#-
 _person#hřivnáč#-
 _person#jednoznač#-
 _person#páč#-
@@ -33687,7 +33360,6 @@ _person#krumpáč#-
 _person#kopáč#+
 _person#kropáč#-
 _person#spáč#+
-_person#chlupáč#-
 _person#rač#-
 _person#brač#-
 _person#sběrač#+
@@ -33858,7 +33530,6 @@ _person#zkapalňovač#-
 _person#uvolňovač#-
 _person#usměrňovač#-
 _person#odhrnovač#+
-_person#snovač#-
 _person#zjasňovač#-
 _person#provzdušňovač#-
 _person#odšťavńovač#-
@@ -33942,7 +33613,6 @@ _person#napaječ#-
 _person#nabíječ#-
 _person#rozbiječ#-
 _person#popíječ#+
-_person#zavíječ#-
 _person#odvíječ#-
 _person#skeč#-
 _person#leč#-
@@ -34162,7 +33832,6 @@ _person#úboč#-
 _person#tamagoč#-
 _person#koč#-
 _person#klokoč#-
-_person#vrkoč#-
 _person#svoloč#-
 _person#zloč#-
 _person#moč#-
@@ -34177,9 +33846,7 @@ _person#organizátoč#-
 _person#veletoč#-
 _person#otoč#-
 _person#kolotoč#-
-_person#červotoč#-
 _person#zaútoč#-
-_person#roztoč#-
 _person#voč#-
 _person#lepč#-
 _person#komerč#-
@@ -34206,7 +33873,6 @@ _person#žluč#-
 _person#zeměžluč#-
 _person#louč#-
 _person#souč#-
-_person#kotouč#-
 _person#puč#-
 _person#papuč#-
 _person#náruč#-
@@ -34365,7 +34031,6 @@ _person#nomad#-
 _person#readymad#-
 _person#nad#-
 _person#vanad#-
-_person#strnad#-
 _person#snad#-
 _person#oprávněnésnad#-
 _person#všemusnad#-
@@ -34504,7 +34169,6 @@ _person#levad#-
 _person#nevad#-
 _person#poněvad#-
 _person#kvad#-
-_person#ovád#-
 _person#provad#-
 _person#uvad#-
 _person#uvád#-
@@ -34619,9 +34283,7 @@ _person#protijed#-
 _person#smrtijed#-
 _person#ojed#-
 _person#vejcojed#-
-_person#medojed#-
 _person#lidojed#+
-_person#samojed#-
 _person#zrnojed#-
 _person#zjed#-
 _person#ked#-
@@ -34676,7 +34338,6 @@ _person#rolled#-
 _person#sladoled#-
 _person#pléd#-
 _person#sled#-
-_person#sleď#-
 _person#násled#-
 _person#scénosled#-
 _person#posled#-
@@ -34898,7 +34559,6 @@ _person#véd#-
 _person#staved#-
 _person#dvěd#-
 _person#medved#-
-_person#medvěd#-
 _person#nedvěd#-
 _person#predved#-
 _person#achieved#-
@@ -35381,7 +35041,6 @@ _person#ochod#-
 _person#mochod#-
 _person#samochod#-
 _person#mimochod#-
-_person#lenochod#-
 _person#lunochod#-
 _person#pochod#-
 _person#schod#-
@@ -35608,7 +35267,6 @@ _person#snowboard#-
 _person#keyboard#-
 _person#storyboard#-
 _person#pard#-
-_person#gepard#-
 _person#leopard#-
 _person#retard#+
 _person#bastard#+
@@ -35723,12 +35381,10 @@ _person#oud#-
 _person#boud#-
 _person#čoud#-
 _person#výhradoud#-
-_person#velbloud#-
 _person#vembloud#-
 _person#cloud#-
 _person#čmoud#-
 _person#poud#-
-_person#strakapoud#-
 _person#semiundregroud#-
 _person#proud#-
 _person#protiproud#-
@@ -35820,7 +35476,6 @@ _person#megahvězd#-
 _person#hvizd#-
 _person#pozd#-
 _person#rozd#-
-_person#drozd#-
 _person#hvozd#-
 _person#otázkuzd#-
 _person#navzd#-
@@ -35829,7 +35484,6 @@ _person#vydlážd#-
 _person#sjížd#-
 _person#vžd#-
 _person#novinářvžd#-
-_person#hlemýžď#-
 _person#e#-
 _person#naae#-
 _person#naąe#-
@@ -37082,7 +36736,6 @@ _person#trubice#-
 _person#nanotrubice#-
 _person#kačice#-
 _person#račice#-
-_person#vačice#-
 _person#zaječice#-
 _person#vlčice#-
 _person#podpraporčice#+
@@ -37092,7 +36745,6 @@ _person#nadporučice#+
 _person#plavčice#+
 _person#jezevčice#-
 _person#dívčice#+
-_person#hadice#-
 _person#dladice#-
 _person#mladice#+
 _person#radice#-
@@ -37120,7 +36772,6 @@ _person#udice#-
 _person#velbloudice#-
 _person#erudice#-
 _person#jezdice#-
-_person#hvězdice#-
 _person#dlaždice#-
 _person#saraeice#-
 _person#benefice#-
@@ -37150,7 +36801,6 @@ _person#chybejice#-
 _person#zavadejice#-
 _person#nesnasejice#-
 _person#souvisejice#-
-_person#lilijice#-
 _person#příjice#-
 _person#prohlubujice#-
 _person#dostacujice#-
@@ -37197,14 +36847,10 @@ _person#uprchlice#+
 _person#vrchlice#-
 _person#rychlice#-
 _person#poběhlice#+
-_person#jehlice#-
-_person#okrouhlice#-
 _person#truhlice#-
 _person#cyrilice#-
 _person#silice#-
 _person#poklice#-
-_person#kuklice#-
-_person#puklice#-
 _person#abolice#-
 _person#holice#-
 _person#hlaholice#-
@@ -37212,9 +36858,7 @@ _person#workoholice#-
 _person#brokolice#-
 _person#sokolice#-
 _person#slolice#-
-_person#molice#-
 _person#demolice#-
-_person#homolice#-
 _person#police#-
 _person#katolice#-
 _person#stolice#-
@@ -37253,7 +36897,6 @@ _person#primice#-
 _person#helmice#-
 _person#kolmice#-
 _person#ekonomice#-
-_person#parmice#-
 _person#permice#-
 _person#šmíce#-
 _person#tlumice#-
@@ -37322,7 +36965,6 @@ _person#válečnice#+
 _person#mléčnice#-
 _person#společnice#+
 _person#tanečnice#+
-_person#slunečnice#-
 _person#vlásečnice#-
 _person#průsečnice#-
 _person#začátečnice#+
@@ -37395,18 +37037,15 @@ _person#kamenice#-
 _person#plemenice#-
 _person#řemenice#-
 _person#lomenice#-
-_person#pěnice#-
 _person#vápenice#-
 _person#kořenice#-
 _person#třenice#-
 _person#setřenice#-
 _person#sestřenice#+
-_person#osenice#-
 _person#pšenice#-
 _person#sestšenice#-
 _person#hostěnice#-
 _person#trstěnice#-
-_person#štěnice#-
 _person#dřevěnice#-
 _person#sazenice#-
 _person#smaženice#-
@@ -37471,14 +37110,12 @@ _person#údolnice#-
 _person#vrcholnice#-
 _person#školnice#+
 _person#smolnice#-
-_person#polnice#-
 _person#solnice#-
 _person#pistolnice#+
 _person#plnice#-
 _person#vlnice#-
 _person#nájemnice#+
 _person#tajemnice#+
-_person#tasemnice#-
 _person#zemnice#-
 _person#podzemnice#-
 _person#polozemnice#-
@@ -37532,7 +37169,6 @@ _person#zornice#-
 _person#jitrnice#-
 _person#kadeřnice#+
 _person#poklasnice#-
-_person#pásnice#-
 _person#zápasnice#+
 _person#tarasnice#-
 _person#prasnice#-
@@ -37558,7 +37194,6 @@ _person#průdušnice#-
 _person#vzdušnice#-
 _person#příušnice#-
 _person#příslušnice#+
-_person#blatnice#-
 _person#zlatnice#+
 _person#matnice#-
 _person#potratnice#+
@@ -37578,7 +37213,6 @@ _person#světnice#-
 _person#sítnice#-
 _person#štítnice#-
 _person#bažantnice#-
-_person#chobotnice#-
 _person#ochotnice#+
 _person#zdravotnice#+
 _person#soucastnice#-
@@ -37607,7 +37241,6 @@ _person#sachovnice#-
 _person#šachovnice#-
 _person#knihovnice#+
 _person#čajovnice#-
-_person#bojovnice#+
 _person#umělkyněbojovnice#-
 _person#spolubojovnice#+
 _person#hákovnice#-
@@ -37673,7 +37306,6 @@ _person#píce#-
 _person#čápice#-
 _person#cepice#-
 _person#čepice#-
-_person#jepice#-
 _person#slepice#-
 _person#opice#-
 _person#spectroscopice#-
@@ -37709,7 +37341,6 @@ _person#skořice#-
 _person#tvořice#-
 _person#kteřípřice#-
 _person#setřice#-
-_person#ústřice#-
 _person#bystřice#-
 _person#kuřice#-
 _person#kukuřice#-
@@ -37718,7 +37349,6 @@ _person#sedmačtyřice#-
 _person#pětačtyřice#-
 _person#sice#-
 _person#síce#-
-_person#lasice#-
 _person#rasice#-
 _person#mesice#-
 _person#měsice#-
@@ -37743,15 +37373,12 @@ _person#classice#-
 _person#musice#-
 _person#worldmusice#-
 _person#vsice#-
-_person#mšice#-
 _person#žarošice#-
 _person#hrošice#-
 _person#všice#-
-_person#myšice#-
 _person#slepýšice#-
 _person#tice#-
 _person#placatice#-
-_person#krakatice#-
 _person#zlatice#-
 _person#matice#-
 _person#patice#-
@@ -37768,7 +37395,6 @@ _person#šachtice#-
 _person#litice#-
 _person#politice#-
 _person#institice#-
-_person#plotice#-
 _person#notice#-
 _person#hrotice#-
 _person#okrotice#-
@@ -37790,14 +37416,12 @@ _person#investice#-
 _person#reinvestice#-
 _person#realistice#-
 _person#socialistice#-
-_person#hlístice#-
 _person#statistice#-
 _person#kostice#-
 _person#okostice#-
 _person#lištice#-
 _person#šištice#-
 _person#kštice#-
-_person#ploštice#-
 _person#žlutice#-
 _person#putice#-
 _person#kytice#-
@@ -37808,7 +37432,6 @@ _person#intuice#-
 _person#bradavice#-
 _person#kýchavice#-
 _person#nohavice#-
-_person#pijavice#-
 _person#fujavice#-
 _person#pískavice#-
 _person#ukavice#-
@@ -37868,7 +37491,6 @@ _person#borovice#-
 _person#lavórovice#-
 _person#soupeřovice#-
 _person#vepřovice#-
-_person#sovice#-
 _person#mirosovice#-
 _person#vrsovice#-
 _person#šošovice#-
@@ -38520,8 +38142,6 @@ _person#autodopravce#+
 _person#správce#+
 _person#dutopěvce#-
 _person#znivce#-
-_person#ovce#-
-_person#paovce#-
 _person#kovce#-
 _person#slovce#-
 _person#příslovce#-
@@ -38581,7 +38201,6 @@ _person#mulče#-
 _person#vlče#-
 _person#baganče#-
 _person#dismanče#-
-_person#saranče#-
 _person#zelenče#-
 _person#podsvinče#-
 _person#skonče#-
@@ -38593,7 +38212,6 @@ _person#chlapče#-
 _person#vícerče#-
 _person#sedmerče#-
 _person#několikaterče#-
-_person#morče#-
 _person#urče#-
 _person#lišče#-
 _person#krátče#-
@@ -40072,7 +39690,6 @@ _person#onomatopoie#-
 _person#teroie#-
 _person#kapie#-
 _person#tilapie#-
-_person#tilápie#-
 _person#astatotilapie#-
 _person#scrapie#-
 _person#therapie#-
@@ -40111,7 +39728,6 @@ _person#laserterapie#-
 _person#canisterapie#-
 _person#skrapie#-
 _person#satrapie#-
-_person#sépie#-
 _person#entalpie#-
 _person#recopie#-
 _person#kopie#-
@@ -40189,7 +39805,6 @@ _person#fotogalerie#-
 _person#valerie#-
 _person#kafilerie#-
 _person#kafilérie#-
-_person#latimérie#-
 _person#izomerie#-
 _person#parfumerie#-
 _person#parfumérie#-
@@ -40216,7 +39831,6 @@ _person#minifotosérie#-
 _person#kuskuserie#-
 _person#baterie#-
 _person#autobaterie#-
-_person#haterie#-
 _person#materie#-
 _person#matérie#-
 _person#kafeterie#-
@@ -40309,7 +39923,6 @@ _person#dioptrie#-
 _person#strie#-
 _person#synastrie#-
 _person#industrie#-
-_person#nutrie#-
 _person#curie#-
 _person#milicurie#-
 _person#kurie#-
@@ -40507,7 +40120,6 @@ _person#pouzitie#-
 _person#spolužitie#-
 _person#použitie#-
 _person#využitie#-
-_person#šeltie#-
 _person#pentie#-
 _person#partie#-
 _person#pederastie#-
@@ -40670,7 +40282,6 @@ _person#nejzajímavěje#-
 _person#polozeje#-
 _person#žeje#-
 _person#rafije#-
-_person#zmije#-
 _person#říje#-
 _person#přije#-
 _person#šíje#-
@@ -40981,7 +40592,6 @@ _person#trable#-
 _person#portable#-
 _person#stable#-
 _person#scrabble#-
-_person#škeble#-
 _person#treble#-
 _person#bible#-
 _person#terrible#-
@@ -41381,9 +40991,7 @@ _person#regule#-
 _person#žigule#-
 _person#virgule#-
 _person#nazgúle#-
-_person#břehule#-
 _person#křehule#-
-_person#mihule#-
 _person#mohule#-
 _person#kule#-
 _person#fakule#-
@@ -41433,7 +41041,6 @@ _person#skatule#-
 _person#škatule#-
 _person#tarantule#-
 _person#notule#-
-_person#vrtule#-
 _person#fistule#-
 _person#vule#-
 _person#vůle#-
@@ -41451,7 +41058,6 @@ _person#vle#-
 _person#pavle#-
 _person#šavle#-
 _person#levle#-
-_person#střevle#-
 _person#rozevle#-
 _person#zivle#-
 _person#zvlé#-
@@ -41563,7 +41169,6 @@ _person#gáne#-
 _person#iane#-
 _person#jane#-
 _person#jané#-
-_person#káně#-
 _person#necekane#-
 _person#nečekaně#-
 _person#cikáně#+
@@ -42763,7 +42368,6 @@ _person#jezdkyně#+
 _person#předjezdkyně#+
 _person#krasojezdkyně#+
 _person#spolujezdkyně#+
-_person#bekyně#-
 _person#člověkyně#-
 _person#obhájkyně#+
 _person#prodejkyně#+
@@ -43094,7 +42698,6 @@ _person#pasé#-
 _person#repase#-
 _person#landrase#-
 _person#kteráse#-
-_person#prase#-
 _person#autoprase#-
 _person#tase#-
 _person#stase#-
@@ -43701,7 +43304,6 @@ _person#sedliště#-
 _person#trdliště#-
 _person#bydliště#-
 _person#střeliště#-
-_person#klíště#-
 _person#krmiště#-
 _person#rumiště#-
 _person#tokaniště#-
@@ -44887,14 +44489,12 @@ _person#lang#-
 _person#ilang#-
 _person#slang#-
 _person#ylang#-
-_person#siamang#-
 _person#pang#-
 _person#trepang#-
 _person#mpang#-
 _person#rang#-
 _person#bumerang#-
 _person#orang#-
-_person#mustang#-
 _person#kuang#-
 _person#hwang#-
 _person#yang#-
@@ -45086,7 +44686,6 @@ _person#feeling#-
 _person#peeling#-
 _person#reeling#-
 _person#channeling#-
-_person#hafling#-
 _person#zergling#-
 _person#mailing#-
 _person#greenmailing#-
@@ -45110,7 +44709,6 @@ _person#spooling#-
 _person#sampling#-
 _person#upsampling#-
 _person#darling#-
-_person#sterling#-
 _person#twirling#-
 _person#curling#-
 _person#quisling#-
@@ -45425,7 +45023,6 @@ _person#among#-
 _person#pong#-
 _person#pingpong#-
 _person#strong#-
-_person#binturong#-
 _person#wrong#-
 _person#song#-
 _person#lovesong#-
@@ -46172,7 +45769,6 @@ _person#ruznejch#-
 _person#utrejch#-
 _person#žovejch#-
 _person#dalch#-
-_person#plch#-
 _person#ranch#-
 _person#maranch#-
 _person#branch#-
@@ -46254,7 +45850,6 @@ _person#modeloch#-
 _person#dueloch#-
 _person#detailoch#-
 _person#protokoloch#-
-_person#moloch#-
 _person#ploch#-
 _person#světoploch#-
 _person#izoploch#-
@@ -46292,7 +45887,6 @@ _person#memoároch#-
 _person#mudroch#-
 _person#smeroch#-
 _person#partneroch#-
-_person#hroch#-
 _person#vesmíroch#-
 _person#súboroch#-
 _person#zboroch#-
@@ -46404,7 +45998,6 @@ _person#eunuch#+
 _person#vodbouch#-
 _person#vozembouch#-
 _person#obouch#-
-_person#vodouch#-
 _person#gouch#-
 _person#melouch#-
 _person#pelouch#-
@@ -46849,13 +46442,11 @@ _person#naopakmnoh#-
 _person#vmnoh#-
 _person#optickymnoh#-
 _person#lyskonoh#-
-_person#listonoh#-
 _person#mnooooh#-
 _person#tooh#-
 _person#expoh#-
 _person#roh#-
 _person#paroh#-
-_person#raroh#-
 _person#tvaroh#-
 _person#piroh#-
 _person#oboroh#-
@@ -46995,7 +46586,6 @@ _person#pruh#-
 _person#osmipruh#-
 _person#popruh#-
 _person#ostruh#-
-_person#pstruh#-
 _person#soustruh#-
 _person#vH#-
 _person#kwh#-
@@ -49617,7 +49207,6 @@ _person#ňují#-
 _person#výji#-
 _person#vyvýjí#-
 _person#khaki#-
-_person#maki#-
 _person#saki#-
 _person#taki#-
 _person#takí#-
@@ -56493,7 +56082,6 @@ _person#niní#-
 _person#předsíní#-
 _person#martini#-
 _person#pohostiní#-
-_person#vini#-
 _person#viní#-
 _person#sviní#-
 _person#ostružiní#-
@@ -58340,7 +57928,6 @@ _person#patoí#-
 _person#pi#-
 _person#pí#-
 _person#kapi#-
-_person#okapi#-
 _person#napí#-
 _person#papi#-
 _person#papí#-
@@ -58374,7 +57961,6 @@ _person#safari#-
 _person#ľavičiari#-
 _person#kari#-
 _person#karí#-
-_person#pekari#-
 _person#lari#-
 _person#populari#-
 _person#mári#-
@@ -58389,7 +57975,6 @@ _person#šarí#-
 _person#stari#-
 _person#starí#-
 _person#polstari#-
-_person#vari#-
 _person#havári#-
 _person#šarivari#-
 _person#tvári#-
@@ -58424,7 +58009,6 @@ _person#jhorí#-
 _person#nejhorí#-
 _person#pohorí#-
 _person#priori#-
-_person#lori#-
 _person#pylori#-
 _person#zámorí#-
 _person#terori#-
@@ -59737,7 +59321,6 @@ _person#pámbůhví#-
 _person#pánbůhví#-
 _person#divi#-
 _person#šediví#-
-_person#kivi#-
 _person#dříví#-
 _person#příví#-
 _person#nejví#-
@@ -60748,7 +60331,6 @@ _person#stáj#-
 _person#potrestaj#-
 _person#nepotrestaj#-
 _person#profistáj#-
-_person#hranostaj#-
 _person#ávaj#-
 _person#davaj#-
 _person#nadavaj#-
@@ -60778,7 +60360,6 @@ _person#odráej#-
 _person#nasra*ej#-
 _person#zmrzlinováej#-
 _person#bej#-
-_person#mangabej#-
 _person#obej#-
 _person#saducej#-
 _person#křečej#-
@@ -60856,7 +60437,6 @@ _person#galej#-
 _person#delej#-
 _person#ílej#-
 _person#bilej#-
-_person#ouklej#-
 _person#olej#-
 _person#použitýcholej#-
 _person#kolej#-
@@ -60915,7 +60495,6 @@ _person#rej#-
 _person#štědréj#-
 _person#archijerej#-
 _person#kerej#-
-_person#terej#-
 _person#frej#-
 _person#krej#-
 _person#prej#-
@@ -61220,15 +60799,12 @@ _person#žabák#-
 _person#darebák#+
 _person#estebák#+
 _person#estébák#+
-_person#chrobák#-
 _person#aleschrobak#-
 _person#osobák#-
 _person#štěrbák#-
 _person#dubák#-
-_person#klubák#-
 _person#dloubák#-
 _person#kladrubák#-
-_person#rybák#-
 _person#placák#-
 _person#spacak#-
 _person#spacák#-
@@ -61309,7 +60885,6 @@ _person#staďák#-
 _person#zadák#+
 _person#medák#-
 _person#měďák#-
-_person#hnědák#-
 _person#redak#-
 _person#šéfredak#-
 _person#předák#+
@@ -61318,7 +60893,6 @@ _person#sedák#-
 _person#podsedák#-
 _person#zvedák#-
 _person#bídák#+
-_person#slíďák#-
 _person#stříďák#-
 _person#židák#+
 _person#cajdák#-
@@ -61401,7 +60975,6 @@ _person#klikyhák#-
 _person#ovciak#-
 _person#krajčíák#-
 _person#vajčiak#-
-_person#kodiak#-
 _person#zodiak#-
 _person#kardiak#+
 _person#celiak#-
@@ -61415,7 +60988,6 @@ _person#športiak#-
 _person#uboziak#-
 _person#spoluziak#-
 _person#žiak#-
-_person#jak#-
 _person#_Jak#-
 _person#*Jak#-
 _person#**Jak#-
@@ -61472,17 +61044,13 @@ _person#občanyvoják#-
 _person#svatjak#-
 _person#možnýjak#-
 _person#postupyjak#-
-_person#makak#-
 _person#říkák#-
-_person#keporkak#-
 _person#lak#-
 _person#lák#-
 _person#sonkalák#-
 _person#skalák#-
 _person#oblak#-
-_person#bublák#-
 _person#sedlák#+
-_person#štidlák#-
 _person#vidlák#+
 _person#bodlák#-
 _person#králíkodlak#-
@@ -61490,8 +61058,6 @@ _person#mydlák#-
 _person#bělák#-
 _person#včelák#-
 _person#náprdelák#-
-_person#čmelák#-
-_person#pačmelák#-
 _person#křemelák#-
 _person#chmelák#-
 _person#umělák#-
@@ -61523,9 +61089,7 @@ _person#předškolák#+
 _person#středoškolák#+
 _person#vysokoškolák#+
 _person#tomolak#-
-_person#smolák#-
 _person#polak#-
-_person#polák#-
 _person#rolák#-
 _person#autolak#-
 _person#plak#-
@@ -61589,7 +61153,6 @@ _person#zemak#-
 _person#zemák#-
 _person#tuzemák#-
 _person#slimak#-
-_person#slimák#-
 _person#animák#-
 _person#přímák#-
 _person#simak#-
@@ -61599,7 +61162,6 @@ _person#omak#-
 _person#domak#-
 _person#domák#-
 _person#romák#-
-_person#rosomák#-
 _person#radiofarmak#-
 _person#čermák#-
 _person#šmak#-
@@ -61617,18 +61179,15 @@ _person#týmák#-
 _person#ňák#-
 _person#škeblaňák#-
 _person#okolnostípřevedenanaK#-
-_person#panak#-
 _person#strának#-
 _person#dvanák#-
 _person#vlečňák#-
 _person#mlíčňák#-
 _person#tučnák#-
-_person#tučňák#-
 _person#výučňák#-
 _person#jednak#-
 _person#objednák#-
 _person#signályjednak#-
-_person#ledňák#-
 _person#kladeňák#-
 _person#vídeňák#-
 _person#studeňák#-
@@ -61636,7 +61195,6 @@ _person#diklofenak#-
 _person#alienák#-
 _person#zelenák#-
 _person#kameňák#-
-_person#plameňák#-
 _person#znamenák#-
 _person#křemeňák#-
 _person#teréňák#-
@@ -61679,7 +61237,6 @@ _person#stříbrňák#-
 _person#vernak#-
 _person#frňák#-
 _person#vzorňák#+
-_person#buřňák#-
 _person#snak#-
 _person#drsnak#-
 _person#drsňák#+
@@ -61692,11 +61249,8 @@ _person#vlastnak#-
 _person#vlastňák#-
 _person#trestňák#-
 _person#šestnák#-
-_person#ostnák#-
 _person#doutnák#-
 _person#junák#+
-_person#luňák#-
-_person#tuňák#-
 _person#rovnak#-
 _person#prvňák#+
 _person#znak#-
@@ -61750,7 +61304,6 @@ _person#rypák#-
 _person#ozpak#-
 _person#rozpak#-
 _person#natožpak#-
-_person#rak#-
 _person#arak#-
 _person#barak#-
 _person#barák#-
@@ -61771,7 +61324,6 @@ _person#hadrák#-
 _person#vandrák#+
 _person#mindrak#-
 _person#mindrák#-
-_person#modrák#-
 _person#mudrák#-
 _person#podběrák#-
 _person#celovečerák#-
@@ -61966,7 +61518,6 @@ _person#přesunvšak#-
 _person#nijakývšak#-
 _person#užvšak#-
 _person#plyšák#-
-_person#myšák#-
 _person#tak#-
 _person#**Tak#-
 _person#atak#-
@@ -62056,11 +61607,9 @@ _person#fotak#-
 _person#foták#-
 _person#fo´ták#-
 _person#foťák#-
-_person#moták#-
 _person#potak#-
 _person#roťák#-
 _person#ptak#-
-_person#pták#-
 _person#prapták#-
 _person#šepták#-
 _person#modropták#-
@@ -62110,7 +61659,6 @@ _person#mattak#-
 _person#auťák#-
 _person#labuťák#-
 _person#novohuťák#-
-_person#loskuták#-
 _person#krouťák#-
 _person#krutak#-
 _person#kruťák#+
@@ -62155,7 +61703,6 @@ _person#ohnivák#-
 _person#pivák#-
 _person#krivak#-
 _person#ohřívák#-
-_person#všivák#+
 _person#živák#-
 _person#bejvák#-
 _person#zalejvák#-
@@ -62202,7 +61749,6 @@ _person#omezovák#-
 _person#krvák#-
 _person#prvak#-
 _person#prvák#+
-_person#plejtvák#-
 _person#představenstvaK#-
 _person#vysouvák#-
 _person#nazouvák#-
@@ -62223,7 +61769,6 @@ _person#němečtístátnípříslušnícinepodléhajízák#-
 _person#lizák#-
 _person#polarizák#-
 _person#televizák#+
-_person#plzák#-
 _person#slzák#-
 _person#bonzák#+
 _person#ubozak#-
@@ -62249,7 +61794,6 @@ _person#ležák#-
 _person#soutěžák#-
 _person#věžák#-
 _person#křižak#-
-_person#křižák#+
 _person#křížák#-
 _person#rejžák#-
 _person#podmínekžák#-
@@ -62259,7 +61803,6 @@ _person#nebožák#+
 _person#ubožák#+
 _person#kožák#-
 _person#držák#-
-_person#muntžak#-
 _person#užák#-
 _person#plaužák#-
 _person#jednolůžák#-
@@ -62267,11 +61810,9 @@ _person#spolužák#+
 _person#dvoulůžák#-
 _person#ploužák#-
 _person#růžák#-
-_person#okružák#-
 _person#back#-
 _person#feedback#-
 _person#biofeedback#-
-_person#ridgeback#-
 _person#comeback#-
 _person#hatchback#-
 _person#notchback#-
@@ -62420,7 +61961,6 @@ _person#škrabek#-
 _person#škrábek#-
 _person#korábek#-
 _person#řábek#-
-_person#jeřábek#-
 _person#řeřábek#-
 _person#pošklebek#-
 _person#úšklebek#-
@@ -62472,7 +62012,6 @@ _person#doubek#-
 _person#loubek#-
 _person#hloubek#-
 _person#kloubek#-
-_person#holoubek#-
 _person#paroubek#-
 _person#sroubek#-
 _person#šroubek#-
@@ -62487,7 +62026,6 @@ _person#placek#-
 _person#plácek#-
 _person#snacek#-
 _person#pacek#-
-_person#racek#-
 _person#fracek#+
 _person#tácek#-
 _person#vacek#-
@@ -62518,7 +62056,6 @@ _person#vlčáček#-
 _person#náklaďáček#-
 _person#padáček#-
 _person#hledáček#-
-_person#medáček#-
 _person#zvedáček#-
 _person#blonďáček#+
 _person#bryndáček#-
@@ -62529,7 +62066,6 @@ _person#pecháček#-
 _person#břicháček#-
 _person#ticháček#-
 _person#sucháček#-
-_person#roháček#-
 _person#majáček#-
 _person#pijáček#-
 _person#dojáček#-
@@ -62543,7 +62079,6 @@ _person#útulkáček#-
 _person#korkáček#-
 _person#sporkáček#-
 _person#louskáček#-
-_person#blýskáček#-
 _person#obláček#-
 _person#čmeláček#-
 _person#přáteláček#-
@@ -62554,16 +62089,13 @@ _person#plaček#-
 _person#sněhuláček#-
 _person#tuláček#+
 _person#vláček#-
-_person#moudivláček#-
 _person#minivláček#-
 _person#zoovláček#-
 _person#zemáček#-
-_person#slimáček#-
 _person#chomáček#-
 _person#womáček#-
 _person#čumáček#-
 _person#panáček#+
-_person#ledňáček#-
 _person#semenáček#-
 _person#pribináček#-
 _person#napínáček#-
@@ -62571,7 +62103,6 @@ _person#připínáček#-
 _person#usínáček#-
 _person#květináček#-
 _person#vlňáček#-
-_person#huňáček#-
 _person#luňáček#-
 _person#prvňáček#+
 _person#synáček#+
@@ -62580,13 +62111,10 @@ _person#páček#-
 _person#papáček#-
 _person#kopáček#-
 _person#kropáček#-
-_person#špaček#-
 _person#chlupáček#-
 _person#stoupáček#-
 _person#ráček#-
 _person#baráček#-
-_person#dráček#-
-_person#modráček#-
 _person#svěráček#-
 _person#umíráček#-
 _person#mraček#-
@@ -62673,7 +62201,6 @@ _person#paleček#-
 _person#váleček#-
 _person#obleček#-
 _person#tkadleček#+
-_person#jeleček#-
 _person#díleček#-
 _person#doleček#-
 _person#vdoleček#-
@@ -62694,7 +62221,6 @@ _person#domeček#-
 _person#zlomeček#-
 _person#stromeček#-
 _person#pitomeček#+
-_person#sumeček#-
 _person#daněček#-
 _person#kaneček#-
 _person#článeček#-
@@ -62744,10 +62270,7 @@ _person#moureček#-
 _person#tureček#-
 _person#prostůreček#-
 _person#syreček#-
-_person#výreček#-
 _person#stařeček#+
-_person#křeček#-
-_person#střeček#-
 _person#píseček#-
 _person#trseček#-
 _person#šáteček#-
@@ -62804,7 +62327,6 @@ _person#obalíček#-
 _person#infobalíček#-
 _person#malíček#-
 _person#špalíček#-
-_person#králíček#-
 _person#kyblíček#-
 _person#knedlíček#-
 _person#špendlíček#-
@@ -62856,7 +62378,6 @@ _person#chodníček#-
 _person#obchodníček#+
 _person#závodníček#+
 _person#podvodníček#+
-_person#budníček#-
 _person#podloudníček#-
 _person#bubeníček#-
 _person#deníček#-
@@ -62879,7 +62400,6 @@ _person#trojuholníček#-
 _person#polníček#-
 _person#vrtulníček#-
 _person#pomníček#-
-_person#koníček#-
 _person#poníček#-
 _person#troníček#-
 _person#zvoníček#-
@@ -62899,7 +62419,6 @@ _person#čtvrtníček#-
 _person#deštníček#-
 _person#doutníček#-
 _person#sudokopytníček#-
-_person#trávníček#-
 _person#rohovníček#-
 _person#slovníček#-
 _person#strážníček#+
@@ -62938,7 +62457,6 @@ _person#prstíček#-
 _person#tlouštíček#+
 _person#slavíček#-
 _person#střevíček#-
-_person#lvíček#-
 _person#človíček#+
 _person#šťovíček#-
 _person#červíček#-
@@ -62951,7 +62469,6 @@ _person#vozejček#-
 _person#pujček#-
 _person#kukček#-
 _person#volček#-
-_person#vlček#-
 _person#zanček#-
 _person#synček#+
 _person#boček#-
@@ -62971,7 +62488,6 @@ _person#darček#-
 _person#krček#-
 _person#smrček#-
 _person#šprček#-
-_person#cvrček#-
 _person#krosček#-
 _person#úček#-
 _person#ůček#-
@@ -63004,7 +62520,6 @@ _person#býček#-
 _person#žabyček#-
 _person#bodyček#-
 _person#strýček#+
-_person#sýček#-
 _person#jazýček#-
 _person#tribádek#-
 _person#hádek#-
@@ -63122,7 +62637,6 @@ _person#stewardek#-
 _person#brdek#-
 _person#mrdek#-
 _person#kadibudek#-
-_person#dudek#-
 _person#ahůdek#-
 _person#obchudek#-
 _person#obchůdek#-
@@ -63172,7 +62686,6 @@ _person#houfek#-
 _person#šoufek#-
 _person#hek#-
 _person#lahek#-
-_person#rehek#-
 _person#okřehek#-
 _person#stíhačiek#-
 _person#značiek#-
@@ -63293,7 +62806,6 @@ _person#průdělek#-
 _person#vydelek#-
 _person#výdělek#-
 _person#přivýdělek#-
-_person#lelek#-
 _person#abímelek#-
 _person#omelek#-
 _person#výčnělek#-
@@ -63332,7 +62844,6 @@ _person#kužílek#-
 _person#záklek#-
 _person#rozklek#-
 _person#hrbolek#-
-_person#čolek#-
 _person#podolek#-
 _person#vdolek#-
 _person#pornofolek#-
@@ -63376,7 +62887,6 @@ _person#tunýlek#-
 _person#trylek#-
 _person#zátylek#-
 _person#hotýlek#-
-_person#motýlek#-
 _person#přístylek#-
 _person#postýlek#-
 _person#adámek#-
@@ -63453,7 +62963,6 @@ _person#škubánek#-
 _person#žbánek#-
 _person#džbánek#-
 _person#danek#-
-_person#daněk#-
 _person#sedánek#-
 _person#čagánek#-
 _person#kahánek#-
@@ -63468,7 +62977,6 @@ _person#stojánek#-
 _person#marjánek#-
 _person#uplakánek#+
 _person#skokánek#-
-_person#klokánek#-
 _person#parkánek#-
 _person#potkánek#-
 _person#otloukánek#+
@@ -63530,9 +63038,7 @@ _person#stánek#-
 _person#svatostánek#-
 _person#kaštánek#-
 _person#pozemšťánek#+
-_person#leguánek#-
 _person#vánek#-
-_person#skřivánek#-
 _person#sněhovánek#-
 _person#červánek#-
 _person#pomazánek#-
@@ -63540,7 +63046,6 @@ _person#scenek#-
 _person#oddenek#-
 _person#zdenek#-
 _person#zdeněk#-
-_person#fenek#-
 _person#okenek#-
 _person#záklenek#-
 _person#výklenek#-
@@ -63667,7 +63172,6 @@ _person#maratonek#-
 _person#kartonek#-
 _person#stonek#-
 _person#vonek#-
-_person#zvonek#-
 _person#hrnek#-
 _person#cesnek#-
 _person#česnek#-
@@ -63686,7 +63190,6 @@ _person#valounek#-
 _person#melounek#-
 _person#kostrounek#-
 _person#plešounek#+
-_person#letounek#-
 _person#posunek#-
 _person#posuněk#-
 _person#zbyněk#-
@@ -63764,7 +63267,6 @@ _person#superdárek#-
 _person#nazdárek#-
 _person#oharek#-
 _person#pohárek#-
-_person#otakárek#-
 _person#fukárek#-
 _person#dolárek#-
 _person#kolárek#-
@@ -63817,7 +63319,6 @@ _person#knírek#-
 _person#papírek#-
 _person#špírek#-
 _person#upírek#-
-_person#štírek#-
 _person#ještírek#-
 _person#borek#-
 _person#razborek#-
@@ -63830,7 +63331,6 @@ _person#korek#-
 _person#piškorek#-
 _person#morek#-
 _person#humorek#-
-_person#norek#-
 _person#pórek#-
 _person#praporek#-
 _person#ventilátorek#-
@@ -63882,7 +63382,6 @@ _person#prostůrek#-
 _person#meziprostůrek#-
 _person#javůrek#-
 _person#otvůrek#-
-_person#netopýrek#-
 _person#svetýrek#-
 _person#řek#-
 _person#nářek#-
@@ -63912,9 +63411,7 @@ _person#rudasek#-
 _person#bijásek#-
 _person#lasek#-
 _person#belasek#-
-_person#bělásek#-
 _person#hlásek#-
-_person#sedmihlásek#-
 _person#vyhlasek#-
 _person#kilásek#-
 _person#klásek#-
@@ -63928,12 +63425,10 @@ _person#opasek#-
 _person#videopásek#-
 _person#rásek#-
 _person#karásek#-
-_person#modrásek#-
 _person#terásek#-
 _person#mikrásek#-
 _person#vrásek#-
 _person#kraťásek#-
-_person#žluťásek#-
 _person#vasek#-
 _person#kvásek#-
 _person#zásek#-
@@ -63974,13 +63469,10 @@ _person#výpisek#-
 _person#orisek#-
 _person#orísek#-
 _person#vorisek#-
-_person#křísek#-
 _person#ořísek#-
 _person#tisek#-
 _person#suisek#-
-_person#lejsek#-
 _person#pejsek#-
-_person#rejsek#-
 _person#vcerejsek#-
 _person#protejsek#-
 _person#panělsek#-
@@ -63994,7 +63486,6 @@ _person#sosek#-
 _person#násosek#-
 _person#vyvojarsek#-
 _person#parsek#-
-_person#drsek#-
 _person#krsek#-
 _person#zákrsek#-
 _person#okrsek#-
@@ -64050,7 +63541,6 @@ _person#hrášek#-
 _person#prášek#-
 _person#klanoprašek#-
 _person#poprašek#-
-_person#strašek#-
 _person#šašek#+
 _person#kasírtašek#-
 _person#podržtašek#-
@@ -64070,9 +63560,7 @@ _person#přívěšek#-
 _person#ibišek#-
 _person#kalíšek#-
 _person#pelíšek#-
-_person#bazilišek#-
 _person#plíšek#-
-_person#kulíšek#-
 _person#míšek#-
 _person#rozmíšek#-
 _person#držmíšek#-
@@ -64122,7 +63610,6 @@ _person#vážnĎušek#-
 _person#skúšek#-
 _person#doušek#-
 _person#dědoušek#+
-_person#rudoušek#-
 _person#vzdoušek#-
 _person#drahoušek#+
 _person#vachoušek#-
@@ -64135,8 +63622,6 @@ _person#noušek#-
 _person#anoušek#-
 _person#fanoušek#+
 _person#skotštífanoušek#-
-_person#černoušek#+
-_person#papoušek#-
 _person#staroušek#+
 _person#všek#-
 _person#hrdopýšek#-
@@ -64338,7 +63823,6 @@ _person#spartek#-
 _person#startek#-
 _person#náčrtek#-
 _person#robertek#-
-_person#krtek#-
 _person#šprtek#-
 _person#vrtek#-
 _person#čvrtek#-
@@ -64391,7 +63875,6 @@ _person#oplůtek#-
 _person#mamutek#-
 _person#zármutek#-
 _person#smutek#-
-_person#kohoutek#-
 _person#koutek#-
 _person#ekokoutek#-
 _person#zookoutek#-
@@ -64443,7 +63926,6 @@ _person#návdavek#-
 _person#závdavek#-
 _person#rudohlávek#-
 _person#pohlavek#-
-_person#zlatohlávek#-
 _person#splávek#-
 _person#navek#-
 _person#pávek#-
@@ -64487,7 +63969,6 @@ _person#výsevek#-
 _person#zálivek#-
 _person#chlívek#-
 _person#vysletlivek#-
-_person#tetřívek#-
 _person#nášivek#-
 _person#pozitivek#-
 _person#ktorákoľvek#-
@@ -64592,7 +64073,6 @@ _person#bezmozek#-
 _person#podvozek#-
 _person#zrzek#+
 _person#klouzek#-
-_person#hrouzek#-
 _person#krouzek#-
 _person#prouzek#-
 _person#kartouzek#-
@@ -64605,10 +64085,8 @@ _person#výtažek#-
 _person#přívažek#-
 _person#vyběžek#-
 _person#výběžek#-
-_person#ježek#-
 _person#výtežek#-
 _person#výtěžek#-
-_person#čížek#-
 _person#blížek#-
 _person#koblížek#-
 _person#snížek#-
@@ -64665,9 +64143,7 @@ _person#minikombík#-
 _person#bobík#-
 _person#agorafobik#+
 _person#hobík#-
-_person#tolstolobik#-
 _person#aerobik#-
-_person#tarbík#-
 _person#superbik#-
 _person#furbík#-
 _person#kubík#-
@@ -64704,7 +64180,6 @@ _person#sobčík#-
 _person#kontrarozvědčík#+
 _person#mečík#-
 _person#řečík#-
-_person#křečík#-
 _person#průsečik#-
 _person#průsečík#-
 _person#pekingčík#-
@@ -64712,18 +64187,12 @@ _person#bičík#-
 _person#krajčík#-
 _person#valčík#-
 _person#neurovalčík#-
-_person#lemčík#-
 _person#lumčík#-
-_person#kančík#-
-_person#halančík#-
 _person#rančík#-
 _person#tančík#-
 _person#svinčík#-
-_person#gekončík#-
 _person#tončík#-
 _person#výročík#-
-_person#roztočík#-
-_person#dřepčík#-
 _person#kupčík#-
 _person#parčík#-
 _person#terčík#-
@@ -64743,8 +64212,6 @@ _person#podporučík#+
 _person#generálporučík#+
 _person#plavčík#+
 _person#ševčík#-
-_person#jezevčík#-
-_person#lovčík#-
 _person#regulovčík#-
 _person#dik#-
 _person#dík#-
@@ -64757,7 +64224,6 @@ _person#paramedik#+
 _person#sebezapření¨dík#-
 _person#ridik#-
 _person#řídík#-
-_person#dikdik#-
 _person#faldík#-
 _person#mendík#-
 _person#pindík#-
@@ -64784,7 +64250,6 @@ _person#abohudík#-
 _person#čmoudík#-
 _person#sjezdík#-
 _person#hvozdík#-
-_person#ježdík#-
 _person#reik#-
 _person#fík#-
 _person#hafík#-
@@ -64837,7 +64302,6 @@ _person#malík#-
 _person#špalík#-
 _person#kralik#-
 _person#králik#-
-_person#králík#-
 _person#pašalík#-
 _person#latalik#-
 _person#cvalík#+
@@ -64873,11 +64337,9 @@ _person#dudlík#-
 _person#pudlík#-
 _person#kbelík#-
 _person#celík#-
-_person#mandelík#-
 _person#evangelík#+
 _person#kostelík#-
 _person#velik#-
-_person#kuželík#-
 _person#konflik#-
 _person#koflík#-
 _person#knoflík#-
@@ -64892,9 +64354,7 @@ _person#vrchlík#-
 _person#rychlik#-
 _person#superrychlík#-
 _person#přehlík#-
-_person#stehlík#-
 _person#švihlík#-
-_person#zvonohlík#-
 _person#rohlik#-
 _person#rohlík#-
 _person#zvrhlik#-
@@ -64955,7 +64415,6 @@ _person#merlík#-
 _person#perlík#-
 _person#kamrlík#-
 _person#orlik#-
-_person#orlík#-
 _person#petrlík#-
 _person#slik#-
 _person#paslík#-
@@ -64985,15 +64444,12 @@ _person#culík#-
 _person#žigulík#-
 _person#krahulík#-
 _person#kulik#-
-_person#kulík#-
 _person#rulík#-
 _person#stulík#-
 _person#štulík#-
 _person#pavlík#-
-_person#střevlík#-
 _person#idylik#-
 _person#grázlík#+
-_person#střízlík#+
 _person#hajzlik#-
 _person#hajzlík#+
 _person#majzlík#-
@@ -65023,7 +64479,6 @@ _person#jarmik#-
 _person#permik#-
 _person#vesmik#-
 _person#šmik#-
-_person#lumík#-
 _person#ník#-
 _person#banik#-
 _person#karbaník#+
@@ -65112,7 +64567,6 @@ _person#zámečník#+
 _person#hranečník#-
 _person#tanečník#+
 _person#předtanečník#+
-_person#mravenečník#-
 _person#konečník#-
 _person#slunečník#-
 _person#pupečník#-
@@ -65142,7 +64596,6 @@ _person#lžičník#-
 _person#nančník#-
 _person#finančník#+
 _person#pobočník#+
-_person#laločník#-
 _person#tlumočník#+
 _person#nočník#-
 _person#´točník#-
@@ -65251,7 +64704,6 @@ _person#eník#-
 _person#benik#-
 _person#šibeník#-
 _person#trombenik#-
-_person#bubeník#+
 _person#ceník#-
 _person#učeník#-
 _person#denik#-
@@ -65294,7 +64746,6 @@ _person#závodpřipraveník#-
 _person#řízeník#-
 _person#zařízeník#-
 _person#arzenik#-
-_person#bahník#-
 _person#tachnik#-
 _person#echnik#-
 _person#technik#+
@@ -65398,7 +64849,6 @@ _person#kotelník#+
 _person#smrtelník#+
 _person#nesmrtelník#+
 _person#kostelník#+
-_person#obojživelník#-
 _person#kouzelník#+
 _person#kuželník#-
 _person#mobilník#-
@@ -65437,7 +64887,6 @@ _person#vrtulnik#-
 _person#vrtulník#-
 _person#bavlník#-
 _person#kobylník#-
-_person#mník#-
 _person#slamník#-
 _person#zaznamnik#-
 _person#záznamník#-
@@ -65447,7 +64896,6 @@ _person#nájemník#+
 _person#podnájemník#+
 _person#tajemník#+
 _person#extajemník#+
-_person#potemník#-
 _person#zimník#-
 _person#tajmník#-
 _person#tajomník#-
@@ -65472,7 +64920,6 @@ _person#symfonik#+
 _person#paralympionik#+
 _person#olympionik#+
 _person#konik#-
-_person#koník#-
 _person#zakonik#-
 _person#zákoník#-
 _person#záloník#-
@@ -65496,10 +64943,8 @@ _person#voník#-
 _person#zvoník#+
 _person#mapník#-
 _person#krápník#-
-_person#potápník#-
 _person#vapnik#-
 _person#vápník#-
-_person#sklepník#+
 _person#hořepník#-
 _person#chlípník#+
 _person#vtipník#-
@@ -65545,7 +64990,6 @@ _person#severník#-
 _person#důvěrník#+
 _person#mezerník#-
 _person#úžerník#-
-_person#papírník#+
 _person#sirník#-
 _person#klavírník#+
 _person#borník#-
@@ -65560,8 +65004,6 @@ _person#příborník#-
 _person#sborník#-
 _person#horník#+
 _person#námorník#-
-_person#komorník#+
-_person#norník#-
 _person#toporník#-
 _person#vtornik#-
 _person#závorník#-
@@ -65580,7 +65022,6 @@ _person#žalářník#+
 _person#kadeřník#+
 _person#holičikadeřník#-
 _person#dveřník#+
-_person#vířník#-
 _person#námořník#+
 _person#pryskyřník#-
 _person#básník#+
@@ -65681,7 +65122,6 @@ _person#desetník#-
 _person#květník#-
 _person#paznehtník#-
 _person#aksamitník#-
-_person#štítník#-
 _person#závitník#-
 _person#žitník#-
 _person#starožitník#+
@@ -65737,7 +65177,6 @@ _person#prutník#-
 _person#rakytník#-
 _person#kopytník#-
 _person#sudokopytník#-
-_person#lichokopytník#-
 _person#únik#-
 _person#čuník#-
 _person#luník#-
@@ -65853,7 +65292,6 @@ _person#minutovník#-
 _person#kávovník#-
 _person#olivovník#-
 _person#křížovník#-
-_person#rýžovník#-
 _person#obuvník#+
 _person#posuvnik#-
 _person#posuvník#-
@@ -65909,7 +65347,6 @@ _person#trojstěžník#-
 _person#krížnik#-
 _person#křižník#-
 _person#střižník#-
-_person#svižník#-
 _person#ožník#-
 _person#bezbožník#+
 _person#založník#-
@@ -65980,16 +65417,12 @@ _person#liptrik#-
 _person#fenylketonurik#-
 _person#zurik#-
 _person#lyrik#+
-_person#rybařík#-
 _person#fařík#-
-_person#tesařík#-
 _person#krysařík#-
 _person#oltářík#-
 _person#stařík#+
-_person#kovařík#-
 _person#kovářík#-
 _person#žebřík#-
-_person#kolibřík#-
 _person#obřík#-
 _person#bobřík#-
 _person#dřík#-
@@ -66003,7 +65436,6 @@ _person#šeřík#-
 _person#svteřík#-
 _person#kufřík#-
 _person#tygřík#-
-_person#hrnčiřík#-
 _person#miřík#-
 _person#mířík#-
 _person#křik#-
@@ -66048,11 +65480,9 @@ _person#smesik#-
 _person#pesík#-
 _person#presík#-
 _person#kosik#-
-_person#kosík#-
 _person#nosík#-
 _person#prosík#-
 _person#psik#-
-_person#psík#-
 _person#mopsík#-
 _person#busík#-
 _person#dusík#-
@@ -66066,10 +65496,8 @@ _person#pašík#-
 _person#naturčšik#-
 _person#náchylnějšík#-
 _person#tolerantnějšík#-
-_person#plšík#-
 _person#hošík#+
 _person#košík#-
-_person#hrošík#-
 _person#aršík#-
 _person#veršík#-
 _person#fanúšik#-
@@ -66185,20 +65613,16 @@ _person#diagnostik#+
 _person#prognostik#+
 _person#příslušnostík#-
 _person#rostík#-
-_person#chrostík#-
 _person#prstík#-
 _person#sebejustik#-
 _person#tloustik#-
 _person#toustík#-
 _person#pláštík#-
 _person#deštík#-
-_person#kleštík#-
 _person#čínštík#-
 _person#naturštik#-
 _person#kuštik#-
 _person#ouštík#-
-_person#tlouštík#+
-_person#puštík#-
 _person#butik#-
 _person#šmůtík#-
 _person#kroutik#-
@@ -66239,7 +65663,6 @@ _person#tazik#-
 _person#lezik#-
 _person#rizík#-
 _person#lojzik#-
-_person#kamzík#-
 _person#okamzik#-
 _person#honzík#-
 _person#konzik#-
@@ -66256,7 +65679,6 @@ _person#metafyzik#+
 _person#geofyzik#+
 _person#biofyzik#+
 _person#astrofyzik#+
-_person#ježík#-
 _person#mžik#-
 _person#okamžik#-
 _person#bložík#-
@@ -66310,8 +65732,6 @@ _person#genplk#-
 _person#pplk#-
 _person#tabulk#-
 _person#pulk#-
-_person#vlk#-
-_person#vakovlk#-
 _person#mamk#-
 _person#tamk#-
 _person#němk#-
@@ -66343,7 +65763,6 @@ _person#tenk#-
 _person#venk#-
 _person#cink#-
 _person#mocink#-
-_person#scink#-
 _person#strečink#-
 _person#koučink#-
 _person#pudink#-
@@ -66373,7 +65792,6 @@ _person#kempink#-
 _person#autokempink#-
 _person#dopink#-
 _person#drink#-
-_person#herink#-
 _person#terink#-
 _person#skrink#-
 _person#dresink#-
@@ -66401,7 +65819,6 @@ _person#makrobuňk#-
 _person#verbuňk#-
 _person#funk#-
 _person#junk#-
-_person#skunk#-
 _person#punk#-
 _person#neopunk#-
 _person#vepřopunk#-
@@ -66485,7 +65902,6 @@ _person#výskok#-
 _person#rozskok#-
 _person#lok#-
 _person#lalok#-
-_person#žralok#-
 _person#zálok#-
 _person#blok#-
 _person#podblok#-
@@ -66501,7 +65917,6 @@ _person#vnitroblok#-
 _person#celok#-
 _person#pondelok#-
 _person#flok#-
-_person#mlok#-
 _person#polok#-
 _person#spolok#-
 _person#mok#-
@@ -66536,7 +65951,6 @@ _person#pripomienok#-
 _person#spomienok#-
 _person#odpočinok#-
 _person#účinok#-
-_person#rejnok#-
 _person#doplnok#-
 _person#výronok#-
 _person#navonok#-
@@ -66799,7 +66213,6 @@ _person#minifigurk#-
 _person#cvrk#-
 _person#svrk#-
 _person#sK#-
-_person#dlask#-
 _person#mlask#-
 _person#mask#-
 _person#chinask#-
@@ -66930,7 +66343,6 @@ _person#ovsk#-
 _person#královsk#-
 _person#obrovsk#-
 _person#pysk#-
-_person#ptakopysk#-
 _person#prysk#-
 _person#trysk#-
 _person#vodotrysk#-
@@ -67071,7 +66483,6 @@ _person#příspěvk#-
 _person#tomahawk#-
 _person#swswk#-
 _person#býk#-
-_person#ťuhýk#-
 _person#kolyk#-
 _person#pawlyk#-
 _person#vzlyk#-
@@ -67104,7 +66515,6 @@ _person#zvyk#-
 _person#nezvyk#-
 _person#zlozvyk#-
 _person#azyk#-
-_person#jazyk#-
 _person#metajazyk#-
 _person#multijazyk#-
 _person#makrojazyk#-
@@ -67316,8 +66726,6 @@ _person#neprijal#-
 _person#kal#-
 _person#čakal#-
 _person#nečakal#-
-_person#karakal#-
-_person#šakal#-
 _person#zákal#-
 _person#dockal#-
 _person#pockal#-
@@ -67393,7 +66801,6 @@ _person#videosignál#-
 _person#radiosignál#-
 _person#audiosignál#-
 _person#smůlusignál#-
-_person#kardinál#+
 _person#nekardinál#-
 _person#final#-
 _person#finál#-
@@ -67509,7 +66916,6 @@ _person#pisal#-
 _person#písal#-
 _person#pisál#-
 _person#sisal#-
-_person#nosál#-
 _person#kinosál#-
 _person#futsal#-
 _person#šal#-
@@ -67553,7 +66959,6 @@ _person#mental#-
 _person#mentál#+
 _person#fundamental#-
 _person#ementál#-
-_person#simentál#-
 _person#momentál#-
 _person#instrumentál#-
 _person#rental#-
@@ -67564,7 +66969,6 @@ _person#mortal#-
 _person#portal#-
 _person#portál#-
 _person#vrtal#-
-_person#chřástal#-
 _person#piedestal#-
 _person#nestal#-
 _person#kostal#-
@@ -67643,8 +67047,6 @@ _person#půlovál#-
 _person#poval#-
 _person#toval#-
 _person#remizoval#-
-_person#narval#-
-_person#serval#-
 _person#interval#-
 _person#subinterval#-
 _person#virvál#-
@@ -67655,7 +67057,6 @@ _person#úval#-
 _person#průval#-
 _person#byval#-
 _person#kýval#-
-_person#mýval#-
 _person#renewal#-
 _person#loyal#-
 _person#royal#-
@@ -67766,7 +67167,6 @@ _person#metamodel#-
 _person#přesnémodel#-
 _person#žemodel#-
 _person#podél#-
-_person#sardel#-
 _person#bordel#-
 _person#prdel#-
 _person#doprdel#-
@@ -67864,7 +67264,6 @@ _person#flanel#-
 _person#manel#-
 _person#objednanél#-
 _person#panel#-
-_person#španěl#-
 _person#kokršpaněl#-
 _person#rozhodnel#-
 _person#činel#-
@@ -67889,7 +67288,6 @@ _person#pel#-
 _person#p**el#-
 _person#apel#-
 _person#čepel#-
-_person#křepel#-
 _person#skalpel#-
 _person#opel#-
 _person#popel#-
@@ -67909,7 +67307,6 @@ _person#akvarel#-
 _person#generel#-
 _person#becquerel#-
 _person#zdiskrel#-
-_person#orel#-
 _person#vorel#-
 _person#pr*el#-
 _person#farrel#-
@@ -67942,7 +67339,6 @@ _person#orisel#-
 _person#prisel#-
 _person#neprisel#-
 _person#svisel#-
-_person#osel#-
 _person#posel#+
 _person#toposel#-
 _person#usel#-
@@ -67957,12 +67353,10 @@ _person#úmysel#-
 _person#výmysel#-
 _person#zmysel#-
 _person#nezmysel#-
-_person#sysel#-
 _person#kašel#-
 _person#konšel#+
 _person#přehršel#-
 _person#tel#-
-_person#datel#-
 _person#badatel#+
 _person#kladatel#-
 _person#nakladatel#+
@@ -68370,7 +67764,6 @@ _person#násvel#-
 _person#opravduvel#-
 _person#wel#-
 _person#axel#-
-_person#texel#-
 _person#pixel#-
 _person#megapixel#-
 _person#subpixel#-
@@ -68547,10 +67940,8 @@ _person#femil#-
 _person#imil#-
 _person#vlastimil#-
 _person#radomil#-
-_person#vodomil#+
 _person#orkomil#-
 _person#piskomil#-
-_person#pískomil#-
 _person#teplomil#-
 _person#smil#-
 _person#čumil#+
@@ -68563,8 +67954,6 @@ _person#zaloil#-
 _person#spoil#-
 _person#pipil#-
 _person#škorpil#-
-_person#dril#-
-_person#mandril#-
 _person#persteril#-
 _person#veril#-
 _person#gril#-
@@ -68629,7 +68018,6 @@ _person#zazil#-
 _person#prezil#-
 _person#snažil#-
 _person#ťažil#-
-_person#měchožil#-
 _person#svepfajl#-
 _person#majl#-
 _person#racochejl#-
@@ -68799,7 +68187,6 @@ _person#symbol#-
 _person#obol#-
 _person#mladobol#-
 _person#sladkobol#-
-_person#sobol#-
 _person#světobol#-
 _person#karbol#-
 _person#setbol#-
@@ -68871,7 +68258,6 @@ _person#glykol#-
 _person#propylenglykol#-
 _person#rozkol#-
 _person#stanozolol#-
-_person#mol#-
 _person#namol#-
 _person#paracetamol#-
 _person#ichtamol#-
@@ -68989,7 +68375,6 @@ _person#vol#-
 _person#kvol#-
 _person#kvôl#-
 _person#stvol#-
-_person#buvol#-
 _person#zvol#-
 _person#wol#-
 _person#taxol#-
@@ -69103,7 +68488,6 @@ _person#jetl#-
 _person#netL#-
 _person#mítl#-
 _person#mantl#-
-_person#axolotl#-
 _person#sytl#-
 _person#ul#-
 _person#uL#-
@@ -69181,7 +68565,6 @@ _person#sůl#-
 _person#titul#-
 _person#podtitul#-
 _person#videotitul#-
-_person#kotul#-
 _person#stůl#-
 _person#nastůl#-
 _person#kuul#-
@@ -69221,10 +68604,8 @@ _person#poznamenanýbyl#-
 _person#kterýbyl#-
 _person#programnezbyl#-
 _person#dinosaurůMassospondyl#-
-_person#krokodýl#-
 _person#chlorofyl#-
 _person#bakteriochlorofyl#-
-_person#hýl#-
 _person#pahýl#-
 _person#úchyl#+
 _person#mohýl#-
@@ -69254,7 +68635,6 @@ _person#metyl#-
 _person#pterodaktyl#-
 _person#merkantyl#-
 _person#motyl#-
-_person#motýl#-
 _person#trotyl#-
 _person#rozptyl#-
 _person#styl#-
@@ -72919,7 +72299,6 @@ _person#american#-
 _person#african#-
 _person#mexican#-
 _person#umlcan#-
-_person#krocan#-
 _person#scan#-
 _person#overscan#-
 _person#svatebčan#+
@@ -73002,7 +72381,6 @@ _person#pandán#-
 _person#pándán#-
 _person#odan#-
 _person#lobodan#-
-_person#kočkodan#-
 _person#podan#-
 _person#podán#-
 _person#prodan#-
@@ -73118,7 +72496,6 @@ _person#meridian#-
 _person#meridián#-
 _person#obsidián#-
 _person#indian#-
-_person#indián#+
 _person#gardian#-
 _person#mafián#+
 _person#supermafián#+
@@ -73146,7 +72523,6 @@ _person#pretorián#+
 _person#stansburian#-
 _person#bayesian#-
 _person#christian#-
-_person#pavián#-
 _person#travian#-
 _person#tizián#-
 _person#kartuzián#+
@@ -73184,7 +72560,6 @@ _person#rozsekán#-
 _person#protékán#-
 _person#cikán#+
 _person#republikán#+
-_person#pelikán#-
 _person#velikán#+
 _person#anglikán#+
 _person#několikan#-
@@ -73205,11 +72580,9 @@ _person#cinkaň#-
 _person#okan#-
 _person#předskokan#+
 _person#trojskokan#+
-_person#klokan#-
 _person#pokan#-
 _person#tokán#-
 _person#ryokan#-
-_person#sklípkan#-
 _person#arkán#-
 _person#parkan#-
 _person#parkán#-
@@ -73226,7 +72599,6 @@ _person#františkán#+
 _person#tkáň#-
 _person#setkán#-
 _person#setkaň#-
-_person#potkan#-
 _person#protkan#-
 _person#utkan#-
 _person#utkán#-
@@ -73238,7 +72610,6 @@ _person#ufnukan#-
 _person#zakoukán#-
 _person#okoukan#-
 _person#rozkoukán#-
-_person#tukan#-
 _person#paykan#-
 _person#proteoglykan#-
 _person#odpykán#-
@@ -73344,7 +72715,6 @@ _person#toulán#-
 _person#vlan#-
 _person#vlaň#-
 _person#pavlán#-
-_person#daman#-
 _person#oklaman#-
 _person#oklamán#-
 _person#sklaman#-
@@ -73389,7 +72759,6 @@ _person#liman#-
 _person#vniman#-
 _person#vnímán#-
 _person#viman#-
-_person#kajman#-
 _person#najman#-
 _person#packman#-
 _person#walkman#-
@@ -73418,7 +72787,6 @@ _person#woman#-
 _person#onewoman#-
 _person#barman#+
 _person#karman#-
-_person#dobrman#-
 _person#biederman#-
 _person#ferman#-
 _person#chairman#-
@@ -73431,7 +72799,6 @@ _person#ombudsman#+
 _person#kongresman#+
 _person#bluesman#+
 _person#talisman#-
-_person#kosman#-
 _person#businessman#+
 _person#byznysman#+
 _person#finišman#+
@@ -73541,7 +72908,6 @@ _person#doan#-
 _person#kóan#-
 _person#loan#-
 _person#*Pan#-
-_person#chápan#-
 _person#chápán#-
 _person#japan#-
 _person#uslapan#-
@@ -73550,10 +72916,8 @@ _person#ucpán#-
 _person#pepan#-
 _person#stepan#-
 _person#šéfpán#-
-_person#taipan#-
 _person#mocipán#+
 _person#marcipán#-
-_person#lipan#-
 _person#tulipán#-
 _person#připomenutípan#-
 _person#rejpan#-
@@ -73577,7 +72941,6 @@ _person#propan#-
 _person#fenylpropan#-
 _person#středoevropan#-
 _person#mimoevropan#-
-_person#tarpan#-
 _person#vycerpan#-
 _person#čerpán#-
 _person#vyčerpán#-
@@ -73613,7 +72976,6 @@ _person#taran#-
 _person#zastarán#-
 _person#postarán#-
 _person#vystarán#-
-_person#varan#-
 _person#brán#-
 _person#braň#-
 _person#zabrán#-
@@ -73677,7 +73039,6 @@ _person#memrán#-
 _person#oran#-
 _person#korán#-
 _person#moráň#-
-_person#kormorán#-
 _person#porán#-
 _person#zorán#-
 _person#prán#-
@@ -73703,9 +73064,7 @@ _person#touran#-
 _person#transuran#-
 _person#turan#-
 _person#nasturan#-
-_person#havran#-
 _person#ýrán#-
-_person#tyran#+
 _person#výraň#-
 _person#sezran#-
 _person#sežrán#-
@@ -73713,7 +73072,6 @@ _person#vesmířan#+
 _person#pohořan#-
 _person#kořán#-
 _person#dokořán#-
-_person#mořan#-
 _person#dvořan#+
 _person#sán#-
 _person#saň#-
@@ -73787,7 +73145,6 @@ _person#polyuretan#-
 _person#tetan#-
 _person#tetaň#-
 _person#kaftan#-
-_person#lachtan#-
 _person#čochtan#-
 _person#pocitan#-
 _person#uhličitan#-
@@ -73888,7 +73245,6 @@ _person#uchystán#-
 _person#pagaštan#-
 _person#kaštan#-
 _person#měšťan#+
-_person#vřešťan#-
 _person#pozemšťan#+
 _person#nepozemšťan#+
 _person#spúšťaň#-
@@ -73899,7 +73255,6 @@ _person#propanbutan#-
 _person#isobutan#-
 _person#roaccutan#-
 _person#roccutan#-
-_person#orangutan#-
 _person#roakutan#-
 _person#připoután#-
 _person#spoután#-
@@ -73908,7 +73263,6 @@ _person#lilipután#+
 _person#býtan#-
 _person#odchytán#-
 _person#vychytán#-
-_person#leguán#-
 _person#tiguan#-
 _person#chuan#-
 _person#čchuan#-
@@ -73980,7 +73334,6 @@ _person#minivan#-
 _person#zpíván#-
 _person#odzpívan#-
 _person#skrivan#-
-_person#skřivan#-
 _person#podezříván#-
 _person#sesivan#-
 _person#sesivaň#-
@@ -74534,7 +73887,6 @@ _person#sužován#-
 _person#lyžován#-
 _person#narván#-
 _person#namistorvan#-
-_person#vorvaň#-
 _person#trvan#-
 _person#ořvaň#-
 _person#nastvan#-
@@ -75176,7 +74528,6 @@ _person#čchen#-
 _person#vaechen#-
 _person#vsechen#-
 _person#líheň#-
-_person#oliheň#-
 _person#ohen#-
 _person#oheň#-
 _person#then#-
@@ -75317,7 +74668,6 @@ _person#udělen#-
 _person#rozdelen#-
 _person#rozdělen#-
 _person#nielen#-
-_person#jelen#-
 _person#jeleň#-
 _person#vstrelen#-
 _person#střelen#-
@@ -75346,7 +74696,6 @@ _person#kuklen#-
 _person#allen#-
 _person#stellen#-
 _person#sollen#-
-_person#bolen#-
 _person#dolen#-
 _person#odolen#-
 _person#holeň#-
@@ -75397,7 +74746,6 @@ _person#vysvetlen#-
 _person#vysvětlen#-
 _person#nahulen#-
 _person#sešpulen#-
-_person#tuleň#-
 _person#ethylen#-
 _person#polyethylen#-
 _person#propylen#-
@@ -76000,10 +75348,8 @@ _person#přilepšen#-
 _person#vylepšen#-
 _person#pohoršen#-
 _person#vypršen#-
-_person#sršeň#-
 _person#navršen#-
 _person#zvětšen#-
-_person#ušeň#-
 _person#zjednodušen#-
 _person#zkušen#-
 _person#ohlušen#-
@@ -76790,7 +76136,6 @@ _person#defin#-
 _person#olefin#-
 _person#olefín#-
 _person#raggamuffin#-
-_person#delfín#-
 _person#synelfin#-
 _person#endorfin#-
 _person#morfin#-
@@ -76845,7 +76190,6 @@ _person#skín#-
 _person#mujskin#-
 _person#pseudoskin#-
 _person#sharpskin#-
-_person#lín#-
 _person#kundalin#-
 _person#kefalin#-
 _person#krealkalin#-
@@ -77072,7 +76416,6 @@ _person#sacharin#-
 _person#muskarin#-
 _person#nodularin#-
 _person#marin#-
-_person#tamarín#-
 _person#akvamarín#-
 _person#kumarin#-
 _person#oxykumarin#-
@@ -77191,7 +76534,6 @@ _person#výšin#-
 _person#tin#-
 _person#tín#-
 _person#kreatin#-
-_person#dalmatin#-
 _person#chromatin#-
 _person#keratin#-
 _person#pětašedesátin#-
@@ -77350,7 +76692,6 @@ _person#štajn#-
 _person#ramštajn#-
 _person#dizajn#-
 _person#webdizajn#-
-_person#cejn#-
 _person#policejň#-
 _person#obycejn#-
 _person#prodejň#-
@@ -77471,10 +76812,8 @@ _person#spraon#-
 _person#mutáon#-
 _person#ovaon#-
 _person#bon#-
-_person#tabon#-
 _person#gibbon#-
 _person#tebon#-
-_person#gibon#-
 _person#trombon#-
 _person#trombón#-
 _person#bonbon#-
@@ -77532,7 +76871,6 @@ _person#monkeon#-
 _person#kykeon#-
 _person#leon#-
 _person#přílišmaléon#-
-_person#chameleon#-
 _person#chameleón#-
 _person#nukleon#-
 _person#napoleon#-
@@ -77922,7 +77260,6 @@ _person#podlezákon#-
 _person#kvazizákon#-
 _person#starozákoň#-
 _person#legislativuzákon#-
-_person#gekon#-
 _person#rekon#-
 _person#zrekon#-
 _person#věkon#-
@@ -77971,7 +77308,6 @@ _person#**Lon#-
 _person#balon#-
 _person#balón#-
 _person#galon#-
-_person#kaloň#-
 _person#malon#-
 _person#methandrostenalon#-
 _person#profesionáloň#-
@@ -77996,7 +77332,6 @@ _person#telon#-
 _person#užívateľon#-
 _person#veľon#-
 _person#teflon#-
-_person#muflon#-
 _person#athlon#-
 _person#triathlon#-
 _person#medailon#-
@@ -78034,14 +77369,12 @@ _person#nadrolon#-
 _person#nandrolon#-
 _person#templon#-
 _person#nandorlon#-
-_person#slon#-
 _person#sloň#-
 _person#biatlon#-
 _person#skiatlon#-
 _person#kvadriatlon#-
 _person#triatlon#-
 _person#duatlon#-
-_person#outloň#-
 _person#kdouloň#-
 _person#babylon#-
 _person#babylón#-
@@ -78072,7 +77405,6 @@ _person#předhormon#-
 _person#fytohormon#-
 _person#parathormon#-
 _person#nemormon#-
-_person#pižmoň#-
 _person#non#-
 _person#canon#-
 _person#organon#-
@@ -78205,7 +77537,6 @@ _person#pyron#-
 _person#výron#-
 _person#son#-
 _person#season#-
-_person#jasoň#-
 _person#mason#-
 _person#demason#-
 _person#demasoň#-
@@ -78353,7 +77684,6 @@ _person#gluon#-
 _person#avon#-
 _person#isoflavon#-
 _person#´dvon#-
-_person#devon#-
 _person#livon#-
 _person#slivoň#-
 _person#živoň#-
@@ -78387,7 +77717,6 @@ _person#nezon#-
 _person#sezoň#-
 _person#půlsezon#-
 _person#půlsezoň#-
-_person#bizon#-
 _person#kortizon#-
 _person#ozon#-
 _person#ozón#-
@@ -78525,7 +77854,6 @@ _person#zaměstn#-
 _person#místn#-
 _person#přípustn#-
 _person#nutn#-
-_person#klaun#+
 _person#tabun#-
 _person#tribun#-
 _person#mbun#-
@@ -78542,8 +77870,6 @@ _person#kchun#-
 _person#phun#-
 _person#thun#-
 _person#jun#-
-_person#kůň#-
-_person#pakůň#-
 _person#sekun#-
 _person#skun#-
 _person#člun#-
@@ -78556,19 +77882,14 @@ _person#rumun#-
 _person#blboun#+
 _person#mlcoun#-
 _person#vlcoun#-
-_person#bércoun#-
-_person#mečoun#-
-_person#bručoun#+
 _person#ufoun#-
 _person#ufouň#-
 _person#vrahoun#+
 _person#běhoun#-
 _person#střihoun#-
 _person#vlkoun#-
-_person#okoun#-
 _person#krkoun#+
 _person#haskoun#-
-_person#pyskoun#-
 _person#baloun#-
 _person#čaloun#-
 _person#tkaloun#-
@@ -78580,23 +77901,17 @@ _person#vztekloun#+
 _person#šalomoun#-
 _person#noun#-
 _person#kapoun#-
-_person#rypoun#-
 _person#uhroun#-
-_person#ostroun#-
 _person#kostroun#-
 _person#plešoun#+
 _person#toun#-
-_person#letoun#-
 _person#pěstoun#+
 _person#svištoun#-
 _person#svišťoun#-
-_person#hlavoun#+
-_person#kladivoun#-
 _person#lvoun#-
 _person#řvoun#+
 _person#hlawoun#-
 _person#hezoun#+
-_person#slizoun#+
 _person#pozoun#-
 _person#zrzoun#+
 _person#run#-
@@ -78623,7 +77938,6 @@ _person#posun#-
 _person#mišún#-
 _person#tůň#-
 _person#kilotun#-
-_person#neptun#-
 _person#sádrokartun#-
 _person#plavuň#-
 _person#monzun#-
@@ -78713,7 +78027,6 @@ _person#valentyn#-
 _person#serpentýn#-
 _person#celestýn#-
 _person#holštýn#-
-_person#perutýn#-
 _person#korečkovýn#-
 _person#milionovýn#-
 _person#považovýn#-
@@ -79151,12 +78464,10 @@ _person#tango#-
 _person#flamengo#-
 _person#pengö#-
 _person#bingo#-
-_person#dingo#-
 _person#pingo#-
 _person#ringo#-
 _person#marketingo#-
 _person#twingo#-
-_person#bongo#-
 _person#rongorongo#-
 _person#mungo#-
 _person#tungo#-
@@ -79233,7 +78544,6 @@ _person#čoho#-
 _person#doho#-
 _person#joho#-
 _person#loho#-
-_person#moho#-
 _person#mnoho#-
 _person#nemnoho#-
 _person#poho#-
@@ -79480,7 +78790,6 @@ _person#sako#-
 _person#tako#-
 _person#yako#-
 _person#záko#-
-_person#žako#-
 _person#jabko#-
 _person#klubko#-
 _person#cko#-
@@ -79623,7 +78932,6 @@ _person#pléčko#-
 _person#šméčko#-
 _person#vínečko#-
 _person#slunečko#-
-_person#slunéčko#-
 _person#péčko#-
 _person#kupéčko#-
 _person#téčko#-
@@ -80100,9 +79408,7 @@ _person#záčátko#-
 _person#rajčátko#-
 _person#trojčátko#+
 _person#odpočátko#-
-_person#morčátko#-
 _person#děvčátko#+
-_person#háďátko#-
 _person#mláďátko#-
 _person#sedátko#-
 _person#sluchátko#-
@@ -80491,7 +79797,6 @@ _person#vřídlo#-
 _person#zřídlo#-
 _person#sídlo#-
 _person#osidlo#-
-_person#šídlo#-
 _person#platidlo#-
 _person#pečetidlo#-
 _person#svítidlo#-
@@ -81089,7 +80394,6 @@ _person#pepino#-
 _person#rino#-
 _person#clarino#-
 _person#padrino#-
-_person#merino#-
 _person#neutrino#-
 _person#antineutrino#-
 _person#příno#-
@@ -82015,7 +81319,6 @@ _person#photo&#-
 _person#loto#-
 _person#moto#-
 _person#mimoto#-
-_person#poto#-
 _person#proto#-
 _person#´Toto#-
 _person#ptoto#-
@@ -82793,7 +82096,6 @@ _person#cap#-
 _person#handicap#-
 _person#printcap#-
 _person#čap#-
-_person#čáp#-
 _person#heap#-
 _person#cheap#-
 _person#chap#-
@@ -82893,7 +82195,6 @@ _person#rep#-
 _person#črep#-
 _person#grep#-
 _person#krep#-
-_person#ostrorep#-
 _person#dřep#-
 _person#podřep#-
 _person#otřep#-
@@ -83112,7 +82413,6 @@ _person#toeloop#-
 _person#pop#-
 _person#multipop#-
 _person#britpop#-
-_person#drop#-
 _person#paranthrop#-
 _person#prop#-
 _person#turboprop#-
@@ -83231,7 +82531,6 @@ _person#sirup#-
 _person#krup#-
 _person#trup#-
 _person#strup#-
-_person#sup#-
 _person#šup#-
 _person#nášup#-
 _person#sešup#-
@@ -83318,7 +82617,6 @@ _person#jQ#-
 _person#sQ#-
 _person#r#-
 _person#ar#-
-_person#kabar#-
 _person#sidebar#-
 _person#surfbar#-
 _person#brundibár#-
@@ -83514,7 +82812,6 @@ _person#tamar#-
 _person#imar#-
 _person#primar#-
 _person#primár#-
-_person#komár#-
 _person#somár#-
 _person#soumar#-
 _person#zmar#-
@@ -83522,7 +82819,6 @@ _person#nazmar#-
 _person#rozmar#-
 _person#nar#-
 _person#anar#-
-_person#kanár#-
 _person#zednar#-
 _person#scenar#-
 _person#scenár#-
@@ -83643,7 +82939,6 @@ _person#huťar#-
 _person#kytar#-
 _person#kytár#-
 _person#jaguar#-
-_person#jaguár#-
 _person#január#-
 _person#február#-
 _person#aktuár#-
@@ -83731,7 +83026,6 @@ _person#šrajbr#-
 _person#témbr#-
 _person#septembr#-
 _person#novembr#-
-_person#bobr#-
 _person#zubrbobr#-
 _person#dobr#-
 _person#multiobr#-
@@ -83739,7 +83033,6 @@ _person#superobr#+
 _person#októbr#-
 _person#lubr#-
 _person#šubr#-
-_person#zubr#-
 _person#nýbr#-
 _person#vybr#-
 _person#výbr#-
@@ -83889,7 +83182,6 @@ _person#loader#-
 _person#preloader#-
 _person#bootloader#-
 _person#trader#-
-_person#vader#-
 _person#eder#-
 _person#ceder#-
 _person#ieder#-
@@ -84069,7 +83361,6 @@ _person#netopier#-
 _person#krupiér#+
 _person#riér#-
 _person#terier#-
-_person#teriér#-
 _person#erdelteriér#-
 _person#pitbullteriér#-
 _person#bulteriér#-
@@ -84513,7 +83804,6 @@ _person#galvanometer#-
 _person#spectrometer#-
 _person#pyrometer#-
 _person#peter#-
-_person#jeseter#-
 _person#veter#-
 _person#sveter#-
 _person#polyéter#-
@@ -84879,7 +84169,6 @@ _person#slabingr#-
 _person#lógr#-
 _person#progr#-
 _person#bugr#-
-_person#tygr#-
 _person#hr#-
 _person#mahr#-
 _person#náhr#-
@@ -84937,7 +84226,6 @@ _person#jir#-
 _person#lír#-
 _person#malír#-
 _person#špalír#-
-_person#kavalír#+
 _person#melir#-
 _person#melír#-
 _person#polír#-
@@ -84978,7 +84266,6 @@ _person#pytlovéhopapír#-
 _person#negropapir#-
 _person#fotopapír#-
 _person#rapír#-
-_person#tapír#-
 _person#empir#-
 _person#empír#-
 _person#šarír#-
@@ -84989,7 +84276,6 @@ _person#kšír#-
 _person#jorkšír#-
 _person#kremaotir#-
 _person#stir#-
-_person#štír#-
 _person#rytír#-
 _person#vir#-
 _person#vír#-
@@ -85053,7 +84339,6 @@ _person#půlr#-
 _person#hamr#-
 _person#zámr#-
 _person#trimr#-
-_person#humr#-
 _person#zanr#-
 _person#žánr#-
 _person#podžánr#-
@@ -85107,7 +84392,6 @@ _person#thermidor#-
 _person#koridor#-
 _person#biokoridor#-
 _person#randor#-
-_person#kondor#-
 _person#heliodor#-
 _person#půdor#-
 _person#tudor#-
@@ -85299,7 +84583,6 @@ _person#creator#-
 _person#triumfátor#+
 _person#triufátor#-
 _person#propagátor#+
-_person#aligátor#-
 _person#irigátor#-
 _person#navigator#-
 _person#navigátor#+
@@ -85685,7 +84968,6 @@ _person#lavór#-
 _person#závor#-
 _person#ortevor#-
 _person#likvor#-
-_person#škvor#-
 _person#neškvor#-
 _person#hovor#-
 _person#dohovor#-
@@ -85745,7 +85027,6 @@ _person#podvzor#-
 _person#výzor#-
 _person#pr#-
 _person#**Pr#-
-_person#kapr#-
 _person#sólokapr#-
 _person#napr#-
 _person#papr#-
@@ -86088,7 +85369,6 @@ _person#agúr#-
 _person#nejhur#-
 _person#vzhur#-
 _person#iur#-
-_person#kur#-
 _person#kůr#-
 _person#pedikůr#-
 _person#manikůr#-
@@ -86101,7 +85381,6 @@ _person#silur#-
 _person#mur#-
 _person#múr#-
 _person#amur#-
-_person#lemur#-
 _person#snur#-
 _person#labour#-
 _person#kocour#-
@@ -86134,11 +85413,9 @@ _person#odpůr#-
 _person#carbopur#-
 _person#purpur#-
 _person#šur#-
-_person#tur#-
 _person#datur#-
 _person#natur#-
 _person#literatúr#-
-_person#pratur#-
 _person#kultúr#-
 _person#agentúr#-
 _person#receptúr#-
@@ -86182,12 +85459,10 @@ _person#pionýr#+
 _person#pyr#-
 _person#pýr#-
 _person#suchopýr#-
-_person#netopýr#-
 _person#kurýr#+
 _person#syr#-
 _person#sýr#-
 _person#bohatýr#+
-_person#satyr#-
 _person#ctyr#-
 _person#mušketýr#+
 _person#martyr#-
@@ -86198,7 +85473,6 @@ _person#monastýr#-
 _person#pastyr#-
 _person#klystýr#-
 _person#štyr#-
-_person#výr#-
 _person#náozr#-
 _person#truhlááář#-
 _person#ářčáář#-
@@ -86224,7 +85498,6 @@ _person#páleničář#+
 _person#silničář#+
 _person#železničář#+
 _person#čepičář#+
-_person#očař#+
 _person#kolotočář#+
 _person#sladař#+
 _person#vladař#+
@@ -86277,7 +85550,6 @@ _person#průšvihář#+
 _person#lhář#+
 _person#největšílhář#-
 _person#bulhař#-
-_person#ohař#-
 _person#úlohář#+
 _person#návrhář#+
 _person#pluhař#+
@@ -86457,7 +85729,6 @@ _person#proutkař#+
 _person#dobytkář#+
 _person#podfukář#+
 _person#hlukař#+
-_person#parukář#+
 _person#zvukař#+
 _person#děvkař#+
 _person#detektivkář#+
@@ -86556,7 +85827,6 @@ _person#ovocnář#+
 _person#bednář#+
 _person#zednář#+
 _person#svobodozednář#+
-_person#studnař#+
 _person#enář#-
 _person#scénař#-
 _person#scenář#-
@@ -86644,7 +85914,6 @@ _person#plynař#+
 _person#stepař#+
 _person#oštěpař#+
 _person#tipař#+
-_person#lampář#+
 _person#kempař#+
 _person#tempař#+
 _person#pumpař#+
@@ -86904,8 +86173,6 @@ _person#jinř#-
 _person#oř#-
 _person#áboř#-
 _person#laboř#-
-_person#tchoř#-
-_person#úhoř#-
 _person#piskoř#-
 _person#námoř#-
 _person#vmoř#-
@@ -87029,7 +86296,6 @@ _person#včas#-
 _person#zavčas#-
 _person#bezčas#-
 _person#přezčas#-
-_person#ďas#-
 _person#radas#-
 _person#adidas#-
 _person#kliďas#+
@@ -87126,18 +86392,15 @@ _person#dvojzápas#-
 _person#superzápas#-
 _person#dvouzápas#-
 _person#skipas#-
-_person#konipas#-
 _person#lampas#-
 _person#kompas#-
 _person#opas#-
 _person#topas#-
-_person#květopas#-
 _person#nespas#-
 _person#pospas#-
 _person#napospas#-
 _person#špás#-
 _person#fauxpas#-
-_person#karas#-
 _person#maras#-
 _person#taras#-
 _person#zátaras#-
@@ -87436,7 +86699,6 @@ _person#charles#-
 _person#posles#-
 _person#beatles#-
 _person#modules#-
-_person#herkules#-
 _person#styles#-
 _person#wargames#-
 _person#names#-
@@ -87502,7 +86764,6 @@ _person#shoes#-
 _person#poes#-
 _person#heroes#-
 _person#potatoes#-
-_person#pes#-
 _person#shapes#-
 _person#nadpes#-
 _person#fuscipes#-
@@ -87680,9 +86941,7 @@ _person#gouais#-
 _person#remarquais#-
 _person#kanabis#-
 _person#cannabis#-
-_person#ibis#-
 _person#verbis#-
-_person#irbis#-
 _person#orbis#-
 _person#urbis#-
 _person#cis#-
@@ -88375,7 +87634,6 @@ _person#kšatríjos#-
 _person#nábojos#-
 _person#pokojos#-
 _person#závojos#-
-_person#kos#-
 _person#akos#-
 _person#rákos#-
 _person#vákos#-
@@ -88387,7 +87645,6 @@ _person#kokos#-
 _person#orkos#-
 _person#úkos#-
 _person#tykos#-
-_person#los#-
 _person#tantalos#-
 _person#mélos#-
 _person#telos#-
@@ -88480,14 +87737,11 @@ _person#sajdkárkros#-
 _person#superkros#-
 _person#poros#-
 _person#proS#-
-_person#albatros#-
-_person#pštros#-
 _person#gyros#-
 _person#papyros#-
 _person#téměřos#-
 _person#sos#-
 _person#oisos#-
-_person#losos#-
 _person#thyrsos#-
 _person#sousos#-
 _person#šos#-
@@ -88544,7 +87798,6 @@ _person#mumps#-
 _person#kops#-
 _person#megaflops#-
 _person#teraflops#-
-_person#mops#-
 _person#drops#-
 _person#triceratops#-
 _person#corps#-
@@ -89026,7 +88279,6 @@ _person#orkus#-
 _person#skus#-
 _person#diskus#-
 _person#meniskus#-
-_person#kuskus#-
 _person#kukus#-
 _person#sukus#-
 _person#vkus#-
@@ -89726,9 +88978,7 @@ _person#previous#-
 _person#kous#-
 _person#rakous#-
 _person#drakous#-
-_person#kalous#-
 _person#filous#-
-_person#pilous#-
 _person#famous#-
 _person#lenous#-
 _person#nonluminous#-
@@ -89754,7 +89004,6 @@ _person#sexopus#-
 _person#corpus#-
 _person#korpus#-
 _person#lupus#-
-_person#rus#-
 _person#ikarus#-
 _person#viviparus#-
 _person#zarus#-
@@ -89814,7 +89063,6 @@ _person#triturus#-
 _person#papyrus#-
 _person#casus#-
 _person#kasus#-
-_person#rhesus#-
 _person#resus#-
 _person#paradisus#-
 _person#risus#-
@@ -89953,13 +89201,11 @@ _person#pornobyznys#-
 _person#šoubyznys#-
 _person#showbyznys#-
 _person#pravopys#-
-_person#rys#-
 _person#nárys#-
 _person#obrys#-
 _person#nákrys#-
 _person#půdorys#-
 _person#bokorys#-
-_person#rorýs#-
 _person#kyrys#-
 _person#matys#-
 _person#šoltys#-
@@ -90113,7 +89359,6 @@ _person#revanš#-
 _person#tenš#-
 _person#mírnš#-
 _person#boš#-
-_person#hraboš#-
 _person#gajdoš#-
 _person#világoš#-
 _person#origoš#-
@@ -90122,7 +89367,6 @@ _person#suchoš#-
 _person#nejhoš#-
 _person#koš#-
 _person#strakoš#-
-_person#kvakoš#-
 _person#jelikoš#-
 _person#svěrkoš#-
 _person#orkoš#-
@@ -90140,11 +89384,8 @@ _person#hadonoš#-
 _person#vodonoš#-
 _person#vlajkonoš#+
 _person#krkonoš#-
-_person#světlonoš#+
-_person#smrtonoš#+
 _person#listonoš#+
 _person#trpoš#-
-_person#rypoš#-
 _person#karoš#-
 _person#sádroš#-
 _person#groš#-
@@ -90177,13 +89418,10 @@ _person#výbuš#-
 _person#uteuš#-
 _person#hluš#-
 _person#přísluš#-
-_person#vodouš#-
 _person#psychouš#+
 _person#bělouš#-
-_person#chocholouš#-
 _person#komouš#+
 _person#fanouš#-
-_person#rypouš#-
 _person#metrouš#+
 _person#souš#-
 _person#touš#-
@@ -90206,15 +89444,8 @@ _person#chýš#-
 _person#měkkýš#-
 _person#punkýš#-
 _person#plyš#-
-_person#myš#-
-_person#tarbíkomyš#-
-_person#sumýš#-
-_person#hroznýš#-
-_person#slepýš#-
 _person#tovaryš#+
 _person#skrýš#-
-_person#korýš#-
-_person#chřestýš#-
 _person#vyš#-
 _person#výš#-
 _person#navyš#-
@@ -90240,7 +89471,6 @@ _person#rabat#-
 _person#sabat#-
 _person#šabat#-
 _person#celibát#-
-_person#vombat#-
 _person#niobát#-
 _person#akrobat#+
 _person#chrbát#-
@@ -90261,7 +89491,6 @@ _person#kandidat#-
 _person#tikandidát#-
 _person#spolukandidát#+
 _person#mdat#-
-_person#candát#-
 _person#mandát#-
 _person#konkordát#-
 _person#zdat#-
@@ -90505,7 +89734,6 @@ _person#vystavenýmexponát#-
 _person#matronát#-
 _person#patronát#-
 _person#glukuronát#-
-_person#garnát#-
 _person#ornát#-
 _person#olovnat#-
 _person#vynat#-
@@ -90531,7 +89759,6 @@ _person#zpať#-
 _person#zpäť#-
 _person#rat#-
 _person#arat#-
-_person#macarát#-
 _person#baccarat#-
 _person#karát#-
 _person#kamarat#-
@@ -91505,7 +90732,6 @@ _person#ambit#-
 _person#gambit#-
 _person#zdobiť#-
 _person#kilobit#-
-_person#trilobit#-
 _person#pobiť#-
 _person#robiť#-
 _person#podrobiť#-
@@ -91750,7 +90976,6 @@ _person#minisummit#-
 _person#uvedomiť#-
 _person#dolomit#-
 _person#chromit#-
-_person#termit#-
 _person#týmit#-
 _person#takovymit#-
 _person#nit#-
@@ -92525,7 +91750,6 @@ _person#pursuant#-
 _person#relevant#-
 _person#want#-
 _person#žant#-
-_person#bažant#-
 _person#seržant#+
 _person#sorbent#-
 _person#cent#-
@@ -92831,7 +92055,6 @@ _person#vint#-
 _person#vyvint#-
 _person#thelodont#-
 _person#parodont#-
-_person#mastodont#-
 _person#font#-
 _person#archont#-
 _person#iont#-
@@ -92894,7 +92117,6 @@ _person#peugeot#-
 _person#fot#-
 _person#nejfot#-
 _person#vyfot#-
-_person#magot#-
 _person#ingot#-
 _person#argot#-
 _person#homozygot#-
@@ -92912,7 +92134,6 @@ _person#timariot#-
 _person#patriot#+
 _person#nacionálpatriot#-
 _person#expatriot#+
-_person#kojot#-
 _person#kot#-
 _person#trenčkot#-
 _person#jekot#-
@@ -92943,7 +92164,6 @@ _person#lot#-
 _person#zealot#-
 _person#westernblot#-
 _person#bibelot#-
-_person#ocelot#-
 _person#flot#-
 _person#aeroflot#-
 _person#pilot#+
@@ -93039,7 +92259,6 @@ _person#lékemprot#-
 _person#korunprot#-
 _person#oprot#-
 _person#deoprot#-
-_person#šprot#-
 _person#protestprot#-
 _person#mužstvuprot#-
 _person#nežprot#-
@@ -93126,7 +92345,6 @@ _person#nadstandart#-
 _person#flipchart#-
 _person#pikhart#-
 _person#thart#-
-_person#levhart#-
 _person#kart#-
 _person#umakart#-
 _person#minikart#-
@@ -93210,7 +92428,6 @@ _person#dezert#-
 _person#inzert#-
 _person#konzert#-
 _person#žert#-
-_person#chrt#-
 _person#shirt#-
 _person#flirt#-
 _person#krt#-
@@ -96377,7 +95594,6 @@ _person#vynalézavost#-
 _person#podlézavost#-
 _person#zrzavost#-
 _person#chvost#-
-_person#kruhochvost#-
 _person#ivost#-
 _person#hrabivost#-
 _person#líbivost#-
@@ -96704,7 +95920,6 @@ _person#kust#-
 _person#tlust#-
 _person#must#-
 _person#inkoust#-
-_person#chroust#-
 _person#toust#-
 _person#půst#-
 _person#odpust#-
@@ -96789,7 +96004,6 @@ _person#letišt#-
 _person#višť#-
 _person#parkovišt#-
 _person#stanovišt#-
-_person#svišť#-
 _person#těžíšť#-
 _person#tuzemšt#-
 _person#kumšt#-
@@ -96842,7 +96056,6 @@ _person#astronaut#+
 _person#gastronaut#-
 _person#internaut#-
 _person#raut#-
-_person#labuť#-
 _person#debut#-
 _person#nebuť#-
 _person#ribut#-
@@ -96896,7 +96109,6 @@ _person#žluť#-
 _person#užluť#-
 _person#mut#-
 _person#malamut#-
-_person#mamut#-
 _person#azimut#-
 _person#pronajmut#-
 _person#přijmut#-
@@ -97106,8 +96318,6 @@ _person#kornout#-
 _person#pout#-
 _person#pouť#-
 _person#lidožrout#+
-_person#mrchožrout#-
-_person#lýkožrout#-
 _person#reklamožrout#-
 _person#perožrout#-
 _person#tout#-
@@ -97288,9 +96498,7 @@ _person#tau#-
 _person#bu#-
 _person#abú#-
 _person#labu#-
-_person#marabu#-
 _person#tabu#-
-_person#zebu#-
 _person#karibu#-
 _person#pánbů#-
 _person#bubu#-
@@ -97310,7 +96518,6 @@ _person#odchovancu#-
 _person#koneckonců#-
 _person#príznivcu#-
 _person#ádu#-
-_person#kakadu#-
 _person#kupříkladu#-
 _person#odzadu#-
 _person#zezadu#-
@@ -97324,12 +96531,10 @@ _person#kupředu#-
 _person#vpředu#-
 _person#zpředu#-
 _person#nápovedu#-
-_person#nandu#-
 _person#fondu#-
 _person#odspodu#-
 _person#zespodu#-
 _person#vodů#-
-_person#kudu#-
 _person#ludu#-
 _person#ľudu#-
 _person#súdu#-
@@ -97374,7 +96579,6 @@ _person#dolů#-
 _person#spolu#-
 _person#pospolu#-
 _person#programu#-
-_person#emu#-
 _person#nemů#-
 _person#sémů#-
 _person#tímu#-
@@ -97488,7 +96692,6 @@ _person#ladislav#-
 _person#posílíLadislav#-
 _person#tanislav#-
 _person#stanislav#-
-_person#brkoslav#-
 _person#jaroslav#-
 _person#miroslav#-
 _person#bohuslav#-
@@ -97496,7 +96699,6 @@ _person#naV#-
 _person#náv#-
 _person#žanav#-
 _person#neporušenaV#-
-_person#páv#-
 _person#rav#-
 _person#brav#-
 _person#zdráv#-
@@ -97645,7 +96847,6 @@ _person#mrkev#-
 _person#broskev#-
 _person#brukev#-
 _person#tykev#-
-_person#lev#-
 _person#nálev#-
 _person#zahrálev#-
 _person#salev#-
@@ -97709,7 +96910,6 @@ _person#předehřev#-
 _person#ohřev#-
 _person#rychloohřev#-
 _person#přev#-
-_person#tetřev#-
 _person#seV#-
 _person#rozhlasev#-
 _person#nesev#-
@@ -97730,7 +96930,6 @@ _person#větev#-
 _person#odvetev#-
 _person#temperamentev#-
 _person#otev#-
-_person#koroptev#-
 _person#mrtev#-
 _person#plástev#-
 _person#zemedelstev#-
@@ -99620,7 +98819,6 @@ _person#odlišitxxxxxxxxxxxxxxx#-
 _person#styxxx#-
 _person#problémyx#-
 _person#onyx#-
-_person#oryx#-
 _person#ý#-
 _person#nááááy#-
 _person#today#-
@@ -104377,7 +103575,6 @@ _person#zmrzlý#-
 _person#polozmrzlý#-
 _person#rozmrzlý#-
 _person#uzly#-
-_person#grizzly#-
 _person#puzzlý#-
 _person#priamy#-
 _person#jamy#-
@@ -118517,7 +117714,6 @@ _person#vzkaz#-
 _person#vlivvzkaz#-
 _person#laz#-
 _person#láz#-
-_person#plaz#-
 _person#splaz#-
 _person#maz#-
 _person#máz#-
@@ -118543,7 +117739,6 @@ _person#paraz#-
 _person#zaraz#-
 _person#obraz#-
 _person#předobraz#-
-_person#dikobraz#-
 _person#videoobraz#-
 _person#stereoobraz#-
 _person#nezobraz#-
@@ -118818,7 +118013,6 @@ _person#tomz#-
 _person#uspořádánz#-
 _person#ganz#-
 _person#simpanz#-
-_person#šimpanz#-
 _person#schranz#-
 _person#shranz#-
 _person#tranz#-
@@ -118991,7 +118185,6 @@ _person#kdyz#-
 _person#takzekdyz#-
 _person#ikdyz#-
 _person#analyz#-
-_person#hmyz#-
 _person#anýz#-
 _person#lanyz#-
 _person#žádnýz#-
@@ -119244,7 +118437,6 @@ _person#mříž#-
 _person#popříž#-
 _person#střiž#-
 _person#stříž#-
-_person#ostříž#-
 _person#obtíž#-
 _person#voltiž#-
 _person#paravoltiž#-
@@ -119265,8 +118457,6 @@ _person#**Takž#-
 _person#tekž#-
 _person#talž#-
 _person#pozdĺž#-
-_person#mlž#-
-_person#plž#-
 _person#okamž#-
 _person#cemž#-
 _person#pricemž#-
@@ -119319,7 +118509,6 @@ _person#odnož#-
 _person#podnož#-
 _person#proož#-
 _person#brož#-
-_person#mrož#-
 _person#prorož#-
 _person#ptorož#-
 _person#prož#-
@@ -151754,7 +150943,6 @@ _person#kapsářka#+
 _person#klient#+
 _person#klub#+
 _person#kluk#+
-_person#kočka#+
 _person#kolega#+
 _person#komise#+
 _person#koňák#+
@@ -151768,7 +150956,6 @@ _person#laik#+
 _person#láska#+
 _person#lid#+
 _person#lídr#+
-_person#lodivod#+
 _person#lupič#+
 _person#management#+
 _person#manager#+
@@ -151789,7 +150976,6 @@ _person#národ#+
 _person#nástupce#+
 _person#návštěva#+
 _person#nepřítel#+
-_person#nestor#+
 _person#nezaměstnaný#+
 _person#nezletilý#+
 _person#nezmar#+
@@ -151847,7 +151033,6 @@ _person#senior#+
 _person#sir#+
 _person#skifař#+
 _person#skin#+
-_person#skokan#+
 _person#skupina#+
 _person#slávista#+
 _person#sok#+
@@ -151953,7 +151138,6 @@ _person#ministerstvo#+
 _person#mág#+
 _person#kolektiv#+
 _person#hlídka#+
-	_person#hlaváč#+
 _person#fond#+
 _person#expedice#+
 _person#divize#+
@@ -152019,7 +151203,6 @@ _person#horák#+
 _person#guru#+
 _person#duo#+
 _person#děcko#+
-_person#ďábel#+
 _person#cynik#+
 _person#církev#+
 _person#buchta#+
@@ -152591,7 +151774,6 @@ _person#nakladatelství#+
 _person#muzeum#+
 _person#lidstvo#+
 _person#leader#+
-_person#lama#+
 _person#kupující#+
 _person#kritika#+
 _person#kontrola#+
@@ -152984,7 +152166,6 @@ _person-individual#kontrola#-
 _person-individual#šikula#+
 _person-individual#moula#+
 _person-individual#dáma#+
-_person-individual#lama#+
 _person-individual#máma#+
 _person-individual#kurtizána#+
 _person-individual#služebná#+
@@ -153177,7 +152358,6 @@ _person-individual#chůva#+
 _person-individual#dráb#+
 _person-individual#štáb#-
 _person-individual#snob#+
-_person-individual#trubač#+
 _person-individual#vykladač#+
 _person-individual#posluchač#+
 _person-individual#boháč#+
@@ -153686,7 +152866,6 @@ _person-individual#levák#+
 _person-individual#zpěvák#+
 _person-individual#chlívák#+
 _person-individual#bouřlivák#+
-_person-individual#všivák#+
 _person-individual#průmyslovák#+
 _person-individual#prvák#+
 _person-individual#svazák#+
@@ -153742,7 +152921,6 @@ _person-individual#kašpárek#+
 _person-individual#pastorek#+
 _person-individual#dědoušek#+
 _person-individual#fanoušek#+
-_person-individual#černoušek#+
 _person-individual#staroušek#+
 _person-individual#sirotek#+
 _person-individual#exnáměstek#+
@@ -153767,7 +152945,6 @@ _person-individual#katolík#+
 _person-individual#nekatolík#+
 _person-individual#zbohatlík#+
 _person-individual#strašpytlík#+
-_person-individual#střízlík#+
 _person-individual#hajzlík#+
 _person-individual#trpajzlík#+
 _person-individual#keramik#+
@@ -153836,7 +153013,6 @@ _person-individual#sebeironik#+
 _person-individual#psychotronik#+
 _person-individual#novoplatonik#+
 _person-individual#zvoník#+
-_person-individual#sklepník#+
 _person-individual#průkopník#+
 _person-individual#chalupník#+
 _person-individual#nástupník#+
@@ -153941,7 +153117,6 @@ _person-individual#epileptik#+
 _person-individual#optik#+
 _person-individual#statistik#+
 _person-individual#prognostik#+
-_person-individual#tlouštík#+
 _person-individual#buzík#+
 _person-individual#mužík#+
 _person-individual#pidimužík#+
@@ -153973,7 +153148,6 @@ _person-individual#reptal#+
 _person-individual#intelektuál#+
 _person-individual#asexuál#+
 _person-individual#ansámbl#-
-_person-individual#ďábel#+
 _person-individual#vyvrhel#+
 _person-individual#všeuměl#+
 _person-individual#konšel#+
@@ -154086,7 +153260,6 @@ _person-individual#cigán#+
 _person-individual#chuligán#+
 _person-individual#tchán#+
 _person-individual#pohan#+
-_person-individual#indián#+
 _person-individual#mafián#+
 _person-individual#augustinián#+
 _person-individual#pretorián#+
@@ -154119,7 +153292,6 @@ _person-individual#mocipán#+
 _person-individual#kumpán#+
 _person-individual#veterán#+
 _person-individual#luterán#+
-_person-individual#tyran#+
 _person-individual#hošan#+
 _person-individual#puritán#+
 _person-individual#sultán#+
@@ -154144,13 +153316,10 @@ _person-individual#šampion#+
 _person-individual#uhlobaron#+
 _person-individual#patron#+
 _person-individual#koncern#-
-_person-individual#klaun#+
 _person-individual#blboun#+
-_person-individual#bručoun#+
 _person-individual#krkoun#+
 _person-individual#vztekloun#+
 _person-individual#hezoun#+
-_person-individual#slizoun#+
 _person-individual#blondýn#+
 _person-individual#manekýn#+
 _person-individual#komando#-
@@ -154190,7 +153359,6 @@ _person-individual#řezbář#+
 _person-individual#smečař#+
 _person-individual#hraničář#+
 _person-individual#felčar#+
-_person-individual#očař#+
 _person-individual#kolotočář#+
 _person-individual#sladař#+
 _person-individual#vladař#+
@@ -154375,7 +153543,6 @@ _person-individual#boxer#+
 _person-individual#profiboxer#+
 _person-individual#švagr#+
 _person-individual#zbrojíř#+
-_person-individual#kavalír#+
 _person-individual#handlíř#+
 _person-individual#uhlíř#+
 _person-individual#kejklíř#+
@@ -154457,8 +153624,6 @@ _person-individual#servis#-
 _person-individual#kamoš#+
 _person-individual#zbrojnoš#+
 _person-individual#vlajkonoš#+
-_person-individual#světlonoš#+
-_person-individual#smrtonoš#+
 _person-individual#kompars#-
 _person-individual#miss#+
 _person-individual#génius#+
