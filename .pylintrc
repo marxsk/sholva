@@ -1,0 +1,6 @@
+[FORMAT]
+indent-string="  "
+max-line-length=110
+
+[TYPECHECK]
+ignored-modules = numpy
