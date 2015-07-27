@@ -7,8 +7,8 @@ import logging
 class Sholva(object):
   """ Object that encapsulated operation over semantic network """
   _ITEMS_IN_RECORD = 3
-  _ITEM_TOKEN = 0
-  _ITEM_SEMANTIC_CLASS = 1
+  _ITEM_TOKEN = 1
+  _ITEM_SEMANTIC_CLASS = 0
   _ITEM_VALUE = 2
 
   POSITIVE = 1

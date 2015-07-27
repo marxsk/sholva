@@ -1,2 +1,2 @@
-voda#_person#-
-voda#_person/inconsistent#+
+_person#voda#-
+_person/inconsistent#voda#+
