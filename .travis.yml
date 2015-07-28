@@ -2,5 +2,5 @@ language: python
 python:
 	- "2.7"
 script:
-	bin/check_consistency.py network.txt
+	- bin/check_consistency.py network.txt
 
