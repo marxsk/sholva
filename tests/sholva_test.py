@@ -12,6 +12,7 @@ DATASET_COMMENT = "data/dataset-comment.txt"
 DATASET_PES = "data/dataset-pes.txt"
 DATASET_PES_PROFESSION = "data/dataset-pes-profession.txt"
 DATASET_INCONSISTENT = "data/dataset-inconsistent.txt"
+DATASET_TYPO = "data/dataset-typo.txt"
 
 class TestSholva(unittest.TestCase):
   def test_class_existence(self):
@@ -96,10 +97,15 @@ class TestSholva(unittest.TestCase):
     con = sholva.Sholva(DATASET_PES)
     self.assertEquals(con.UNKNOWN, con.in_class(u"Voda", "_person"))
 
+  @unittest.skip("Not implemented yet")
   def test_person_pointable(self):
     """ Inheritance should also work between person and pointable """
     # @todo: improve debug -> logging
     self.assertEquals(True, False)
+
+  def test_typo_consistency(self):
+    con = sholva.Sholva(DATASET_TYPO)
+    self.assertEquals(False, con.check_consistency())
 
 if __name__ == "__main__":
   unittest.main()

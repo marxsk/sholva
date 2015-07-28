@@ -15,6 +15,8 @@ class Sholva(object):
   NEGATIVE = -1
   UNKNOWN = 0
 
+  VALID_LEMMA = "_valid_lemma"
+
   def __init__(self, network_file, semclasses=None):
     """ Constructor that automatically load semantic network
 
@@ -75,6 +77,8 @@ class Sholva(object):
       return False
     elif not self._check_consistency_names():
       return False
+    elif not self._check_consistency_typo():
+      return False
     else:
       return True
 
@@ -109,5 +113,15 @@ class Sholva(object):
         if not semclass in self._semclasses:
           logging.error("Token '%s' has undefined semantic class '%s' ", token, semclass)
           return False
+
+    return True
+
+  def _check_consistency_typo(self):
+    """ Check if typo is not part of semantic network """
+    for token in self._network:
+      if self.in_class(token, "%s/k1" % (self.VALID_LEMMA)) == self.NEGATIVE and \
+          len(self._network[token]) > 1:
+        logging.error("Token '%s' is typo and also part of standard semantic network", token)
+        return False
 
     return True

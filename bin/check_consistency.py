@@ -6,7 +6,7 @@ import sholva
 import sys
 
 def test_consistency(filename):
-  net = sholva.Sholva(filename, ["_substance", "_person", "_event", "_person/individual", "_person/animal"])
+  net = sholva.Sholva(filename, ["_substance", "_person", "_event", "_person/individual", "_person/animal", "_valid_lemma/k1"])
   return net.check_consistency()
 
 if __name__ == "__main__":
