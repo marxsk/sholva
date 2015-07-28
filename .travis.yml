@@ -3,4 +3,4 @@ python:
   - "2.7"
 script:
   - bin/check_consistency.py network.txt
-
+  - cd tests; python sholva_test.py
