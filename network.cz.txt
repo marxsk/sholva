@@ -142208,7 +142208,7 @@ _person#opozičník#+
 _person#osoba#+
 _person#osobnost#+
 _person#padesátník#+
-	_person#pan#+
+_person#pan#+
 _person#pán#+
 _person#paní#+
 _person#pár#+
@@ -142276,7 +142276,7 @@ _person#terorista#+
 _person#trio#+
 _person#trojice#+
 _person#trojskokanka#+
-	_person#turek#+
+_person#turek#+
 _person#turista#+
 _person#tyčkařka#+
 _person#účastník#+
@@ -142286,7 +142286,7 @@ _person#uživatel#+
 _person#valach#+
 _person#vedení#+
 _person#věřící#+
-	_person#většina#+
+_person#většina#+
 _person#vězeň#+
 _person#viník#+
 _person#vítězka#+
@@ -142338,7 +142338,7 @@ _person#domácnost#+
 _person#známá#+
 _person#třída#+
 _person#služba#+
-	_person#řada#+
+_person#řada#+
 _person#ratolest#+
 _person#představenstvo#+
 _person#pracující#+
@@ -142392,7 +142392,7 @@ _person#individuum#+
 _person#formace#+
 _person#čtyřicátník#+
 _person#autorita#+
-	_person#arab#+
+_person#arab#+
 _person#trh#+
 _person#šlechta#+
 _person#šampión#+
@@ -142408,7 +142408,7 @@ _person#pohřešovaný#+
 _person#pobočka#+
 _person#playboy#+
 _person#penzistka#+
-	_person#oči#+
+_person#oči#+
 _person#mrtvola#+
 _person#maršál#+
 _person#mánička#+
@@ -142454,7 +142454,7 @@ _person#redakce#+
 _person#raper#+
 _person#předek#+
 _person#produkce#+
-	_person#probošt#+
+_person#probošt#+
 _person#prezídium#+
 _person#prezidium#+
 _person#postižený#+
