@@ -104,6 +104,7 @@ class TestSholva(unittest.TestCase):
     self.assertEquals(True, False)
 
   def test_typo_consistency(self):
+    """ If word is typo then it can't be + in any other class """
     con = sholva.Sholva(DATASET_TYPO)
     self.assertEquals(False, con.check_consistency())
 
