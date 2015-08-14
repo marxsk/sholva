@@ -66,8 +66,12 @@ class Sholva(object):
       # inheritance of negative value of semantic class
       if token_semclasses:
         for semclass in self._network[token_lc].keys():
+          # if TOKEN/class/- then TOKEN/subclass/-
           if semantic_class.startswith(semclass + u"/") and self._network[token_lc][semclass] == u"-":
             return self.NEGATIVE
+          # if TOKEN/subclass/+ then TOKEN/class/+
+          if semclass.startswith(semantic_class + u"/") and self._network[token_lc][semclass] == u"+":
+            return self.POSITIVE
       return self.UNKNOWN
     else:
       raise SyntaxError("Value '%s' for token '%s' is not valid value" % (value, token))

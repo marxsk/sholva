@@ -15,6 +15,7 @@ DATASET_INCONSISTENT = "data/dataset-inconsistent.txt"
 DATASET_TYPO = "data/dataset-typo.txt"
 DATASET_TWICE = "data/dataset-twice.txt"
 DATASET_TWICE_CONFLICT = "data/dataset-twice-conflict.txt"
+DATASET_INHERITANCE = "data/dataset-inheritance.txt"
 
 class TestSholva(unittest.TestCase):
   def test_class_existence(self):
@@ -123,6 +124,11 @@ class TestSholva(unittest.TestCase):
       self.assertRaises(SyntaxError, sholva.Sholva(DATASET_TWICE_CONFLICT))
     except SyntaxError:
       pass
+
+  def test_inheritance(self):
+    """ If 'hroch' is (_person/animal +) than it has to be (_person +) too """
+    con = sholva.Sholva(DATASET_INHERITANCE)
+    self.assertEquals(con.POSITIVE, con.in_class(u"hroch", "_person"))
 
 if __name__ == "__main__":
   unittest.main()
