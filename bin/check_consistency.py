@@ -8,6 +8,7 @@ import sys
 def test_consistency(filename):
   net = sholva.Sholva(filename, ["_substance", "_person", "_event",
     "_person/individual", "_person/animal", "_person/profession", "_person/institution",
+    "_person/nationality",
     "_valid_lemma/k1"])
   return net.check_consistency()
 

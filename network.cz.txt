@@ -186421,3 +186421,13 @@ _person/individual#žonglér#+
 _person/individual#žurnalista#+
 _person/individual#žurnalistka#+
 _person/individual#žvanič#+
+_person/nationality#Afghánec#+
+_person/nationality#Afgánka#+
+_person/nationality#Albánec#+
+_person/nationality#Abánka#+
+_person/nationality#Alžířan#+
+_person/nationality#Alžířanka#+
+_person/nationality#Američan#+
+_person/nationality#Američanka#+
+_person/nationality#Andořan#+
+_person/nationality#Andořanka#+
