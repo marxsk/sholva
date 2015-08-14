@@ -13,6 +13,8 @@ DATASET_PES = "data/dataset-pes.txt"
 DATASET_PES_PROFESSION = "data/dataset-pes-profession.txt"
 DATASET_INCONSISTENT = "data/dataset-inconsistent.txt"
 DATASET_TYPO = "data/dataset-typo.txt"
+DATASET_TWICE = "data/dataset-twice.txt"
+DATASET_TWICE_CONFLICT = "data/dataset-twice-conflict.txt"
 
 class TestSholva(unittest.TestCase):
   def test_class_existence(self):
@@ -107,6 +109,20 @@ class TestSholva(unittest.TestCase):
     """ If word is typo then it can't be + in any other class """
     con = sholva.Sholva(DATASET_TYPO)
     self.assertEquals(False, con.check_consistency())
+
+  def test_duplicity_consistency(self):
+    """ If same records are listed twice, consistency should find this problem """
+    try:
+      self.assertRaises(SyntaxError, sholva.Sholva(DATASET_TWICE_CONFLICT))
+    except SyntaxError:
+      pass
+
+  def test_conflict_consistency(self):
+    """ If same records are listed twice with different polarity, consistency should find this problem """
+    try:
+      self.assertRaises(SyntaxError, sholva.Sholva(DATASET_TWICE_CONFLICT))
+    except SyntaxError:
+      pass
 
 if __name__ == "__main__":
   unittest.main()

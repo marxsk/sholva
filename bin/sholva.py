@@ -41,6 +41,9 @@ class Sholva(object):
           self._network[items[self._ITEM_TOKEN]] = \
               {items[self._ITEM_SEMANTIC_CLASS] : items[self._ITEM_VALUE]}
         else:
+          if items[self._ITEM_SEMANTIC_CLASS] in self._network[items[self._ITEM_TOKEN]]:
+            logging.error("Record '%s:%s' is listed several times", items[self._ITEM_TOKEN], items[self._ITEM_SEMANTIC_CLASS])
+            raise SyntaxError("Record '%s:%s' is listed several times" % (items[self._ITEM_TOKEN], items[self._ITEM_SEMANTIC_CLASS]))
           self._network[items[self._ITEM_TOKEN]][items[self._ITEM_SEMANTIC_CLASS]] = items[self._ITEM_VALUE]
       else:
         raise SyntaxError("Line '%s' is not in the required format" % (line))
