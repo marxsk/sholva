@@ -6,9 +6,9 @@ import sholva
 import sys
 
 def test_consistency(filename):
-  net = sholva.Sholva(filename, ["_substance", "_person", "_event",
-    "_person/individual", "_person/animal", "_person/profession", "_person/institution",
-    "_person/nationality",
+  net = sholva.Sholva(filename, ["_substance", "_pointable/person", "_event",
+    "_pointable/person/individual", "_pointable/person/animal", "_pointable/person/profession", "_pointable/person/institution",
+    "_pointable/person/nationality",
     "_pointable",
     "_valid_lemma/k1"])
   return net.check_consistency()
