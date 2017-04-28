@@ -100,12 +100,6 @@ class TestSholva(unittest.TestCase):
     con = sholva.Sholva(DATASET_PES)
     self.assertEquals(con.UNKNOWN, con.in_class(u"Voda", "_person"))
 
-  @unittest.skip("Not implemented yet")
-  def test_person_pointable(self):
-    """ Inheritance should also work between person and pointable """
-    # @todo: improve debug -> logging
-    self.assertEquals(True, False)
-
   def test_typo_consistency(self):
     """ If word is typo then it can't be + in any other class """
     con = sholva.Sholva(DATASET_TYPO)
